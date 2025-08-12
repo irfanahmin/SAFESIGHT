@@ -1,0 +1,701 @@
+date,time_of_day,crime_type,location,latitude,longitude,victim_gender,victim_age,perpetrator_gender,perpetrator_age,weapon,injury,weather,temperature,previous_activity
+18-12-2021,21:29:18,Assault,Whitefield,13.1206,77.5712,Female,62,Other,18,Gun,Major,Partly Cloudy,40,Fraud
+16-09-2018,08:36:10,Forgery,Jayanagar,13.068,77.5754,Male,56,Male,18,None,Fatal,Partly Cloudy,10,None
+02-06-2018,04:27:36,Embezzlement,Koramangala,13.0788,77.6458,Other,18,Male,20,Gun,Fatal,Partly Cloudy,5,Robbery
+24-02-2020,10:51:00,Robbery,Electronic City,12.8899,77.5503,Male,25,Male,25,Gun,Minor,Clear,25,Drug Offense
+02-06-2018,08:01:24,Forgery,Indiranagar,13.0214,77.4496,Male,53,Other,63,Knife,None,Clear,20,Fraud
+24-02-2018,21:00:41,Embezzlement,JP Nagar,13.0559,77.4998,Other,36,Female,47,Gun,Fatal,Overcast,1,Robbery
+13-04-2019,18:54:23,Vandalism,Marathahalli,13.0814,77.5721,Other,61,Female,39,Knife,Major,Overcast,0,Burglary
+16-04-2021,21:58:36,Forgery,Banashankari,13.0547,77.5186,Female,25,Female,23,Knife,Major,Clear,25,None
+13-01-2022,03:38:23,Forgery,JP Nagar,12.9809,77.7966,Female,58,Female,18,Gun,Minor,Clear,0,Embezzlement
+05-03-2018,09:25:17,Burglary,JP Nagar,13.0961,77.4986,Female,35,Other,49,Knife,None,Clear,37,Drug Offense
+29-04-2021,06:56:17,Theft,Electronic City,12.9208,77.4237,Other,30,Female,28,None,Fatal,Overcast,20,Burglary
+02-08-2022,20:16:00,Fraud,Banashankari,13.1532,77.6746,Female,55,Male,48,Blunt Object,Minor,Clear,7,Forgery
+05-07-2021,20:33:33,Robbery,Jayanagar,12.9826,77.7132,Other,62,Female,23,None,Fatal,Rain,10,Embezzlement
+01-10-2018,18:13:30,Vandalism,Banashankari,13.1391,77.62,Male,27,Female,31,None,None,Clear,33,Assault
+28-09-2021,06:36:59,Embezzlement,Marathahalli,12.8746,77.7989,Other,37,Female,42,Gun,Major,Rain,8,Fraud
+22-06-2020,23:05:43,Theft,Banashankari,12.9363,77.4805,Male,21,Other,61,Blunt Object,Major,Partly Cloudy,17,Drug Offense
+13-08-2022,00:37:42,Vandalism,Jayanagar,12.9822,77.5382,Male,27,Other,52,Knife,None,Clear,3,Theft
+11-05-2019,06:28:02,Assault,Indiranagar,13.0582,77.6439,Other,43,Other,58,Knife,Major,Partly Cloudy,15,None
+10-07-2022,15:26:00,Embezzlement,Electronic City,13.1544,77.439,Male,27,Female,22,None,Major,Overcast,27,Vandalism
+30-11-2021,22:34:24,Burglary,Yelahanka,13.0076,77.5068,Other,62,Female,57,Knife,Major,Snow,40,Fraud
+27-01-2021,04:25:27,Burglary,Whitefield,12.8912,77.4086,Male,40,Other,61,Blunt Object,Minor,Snow,30,Burglary
+27-12-2022,15:19:12,Embezzlement,JP Nagar,13.0014,77.4377,Male,33,Other,27,Gun,Major,Overcast,24,Theft
+22-02-2019,23:52:51,Fraud,Yelahanka,13.1463,77.4136,Other,25,Male,31,Gun,Major,Snow,8,Fraud
+21-05-2018,19:11:22,Drug Offense,Banashankari,13.1326,77.4475,Other,46,Other,47,None,None,Partly Cloudy,11,Vandalism
+14-04-2019,21:19:32,Assault,Yelahanka,13.1024,77.5917,Other,18,Other,43,Knife,None,Snow,28,Fraud
+30-06-2019,14:27:55,Theft,HSR Layout,13.0019,77.5627,Other,52,Other,55,None,Minor,Clear,11,None
+15-03-2021,17:15:07,Assault,Kamakshipalya,13.1291,77.5332,Male,62,Female,45,Blunt Object,Minor,Overcast,20,Burglary
+25-06-2022,13:36:44,Fraud,Whitefield,13.1882,77.6379,Male,53,Female,24,Gun,Major,Rain,11,Theft
+17-08-2019,14:57:40,Embezzlement,Indiranagar,12.9185,77.7436,Other,36,Female,46,Gun,Major,Partly Cloudy,9,Robbery
+21-07-2021,22:46:47,Forgery,Indiranagar,12.9528,77.7404,Other,63,Other,58,None,Fatal,Clear,10,None
+29-04-2019,11:01:36,Forgery,Electronic City,12.8318,77.509,Male,18,Other,41,None,Fatal,Overcast,9,Fraud
+04-11-2018,09:01:01,Theft,Indiranagar,12.8953,77.4513,Other,49,Other,24,Knife,Fatal,Rain,28,Fraud
+03-07-2018,15:13:32,Forgery,Banashankari,13.1293,77.5375,Other,48,Female,56,None,Fatal,Snow,33,Embezzlement
+20-12-2022,05:26:22,Forgery,Kamakshipalya,13.0224,77.4102,Male,29,Male,61,Blunt Object,Major,Snow,23,Fraud
+29-09-2022,00:08:06,Vandalism,Kamakshipalya,13.0726,77.5444,Female,42,Other,45,None,Minor,Overcast,29,Assault
+18-06-2020,08:52:44,Burglary,HSR Layout,13.0355,77.7351,Other,21,Female,58,Knife,Fatal,Overcast,17,Theft
+20-12-2018,13:55:58,Robbery,Electronic City,13.1359,77.7127,Female,18,Female,65,Gun,Minor,Overcast,4,Burglary
+04-04-2022,13:28:11,Fraud,Koramangala,12.8066,77.6143,Male,25,Male,50,None,None,Rain,38,Vandalism
+03-11-2020,21:11:41,Assault,Whitefield,13.1435,77.6885,Other,52,Other,31,None,Minor,Snow,20,Embezzlement
+08-04-2021,04:34:19,Fraud,JP Nagar,13.1033,77.426,Female,28,Other,41,None,Minor,Snow,29,Burglary
+19-07-2019,16:20:37,Theft,Kamakshipalya,13.103,77.7723,Female,35,Male,25,Knife,Major,Clear,25,Robbery
+17-09-2019,00:24:08,Theft,Jayanagar,12.9704,77.5332,Other,40,Other,64,Knife,Fatal,Clear,15,Embezzlement
+02-10-2019,23:10:06,Robbery,Whitefield,13.1394,77.68,Male,19,Male,57,None,None,Partly Cloudy,1,Vandalism
+15-02-2019,19:10:50,Vandalism,Indiranagar,13.188,77.6274,Female,50,Female,25,Blunt Object,None,Snow,21,Theft
+03-11-2021,19:18:57,Forgery,Yelahanka,13.0262,77.6425,Male,22,Female,25,Blunt Object,Minor,Rain,1,Drug Offense
+28-04-2020,08:37:19,Fraud,Koramangala,13.0724,77.6828,Male,29,Male,31,Knife,Fatal,Snow,38,Vandalism
+20-08-2020,17:35:47,Theft,Banashankari,13.0743,77.5141,Male,60,Male,30,None,Minor,Rain,39,Vandalism
+30-11-2018,17:29:32,Embezzlement,Kamakshipalya,13.1953,77.7215,Female,58,Female,20,None,Fatal,Overcast,38,Fraud
+20-06-2022,03:57:02,Vandalism,Indiranagar,12.8119,77.7198,Other,46,Other,36,Blunt Object,None,Partly Cloudy,2,Vandalism
+07-09-2022,17:29:08,Vandalism,Electronic City,13.0017,77.7348,Male,23,Female,49,Blunt Object,Major,Partly Cloudy,34,Theft
+21-08-2018,06:39:01,Vandalism,JP Nagar,12.8528,77.6035,Other,50,Male,55,Knife,Fatal,Overcast,36,Vandalism
+09-08-2020,14:30:37,Theft,Koramangala,12.8457,77.5319,Other,18,Female,45,None,Fatal,Clear,1,Robbery
+23-12-2021,05:15:47,Vandalism,Kamakshipalya,13.128,77.5307,Other,43,Female,56,Blunt Object,None,Clear,19,Robbery
+21-10-2018,15:43:39,Theft,Banashankari,12.8297,77.4151,Male,54,Male,22,Blunt Object,Minor,Snow,24,Theft
+05-11-2021,14:42:06,Robbery,Banashankari,13.1622,77.6288,Male,25,Male,64,Blunt Object,Fatal,Overcast,29,Theft
+04-01-2021,17:01:41,Fraud,Kamakshipalya,12.8774,77.4809,Female,47,Male,53,Gun,Minor,Rain,27,Embezzlement
+27-02-2021,03:46:34,Theft,JP Nagar,13.0663,77.4566,Female,42,Male,64,None,Major,Snow,1,Theft
+13-02-2018,18:52:04,Fraud,HSR Layout,12.8641,77.4651,Male,34,Male,37,Blunt Object,Fatal,Overcast,31,Fraud
+15-09-2018,13:25:57,Fraud,Kamakshipalya,13.1081,77.484,Other,52,Other,57,Gun,Minor,Clear,2,None
+12-04-2019,23:11:34,Vandalism,JP Nagar,12.8928,77.7794,Female,43,Female,27,Blunt Object,None,Snow,10,Theft
+05-12-2021,04:33:50,Robbery,Bellandur,12.8444,77.4921,Male,37,Male,58,Blunt Object,Minor,Overcast,7,Vandalism
+18-03-2020,17:32:10,Theft,Indiranagar,12.893,77.6097,Female,31,Female,19,Knife,Minor,Clear,7,Robbery
+21-12-2021,01:01:33,Robbery,Banashankari,12.9655,77.6345,Other,52,Female,38,Blunt Object,Fatal,Partly Cloudy,1,Embezzlement
+15-09-2021,02:10:54,Theft,Yelahanka,13.1627,77.7063,Other,40,Female,25,Knife,Fatal,Rain,28,Burglary
+17-10-2021,07:54:31,Vandalism,Banashankari,12.9493,77.6294,Female,39,Female,54,None,Major,Snow,8,Embezzlement
+29-12-2019,15:49:37,Forgery,JP Nagar,13.0229,77.7195,Other,56,Other,20,Blunt Object,Minor,Overcast,32,Assault
+18-07-2019,20:28:43,Vandalism,Bellandur,12.9903,77.5259,Female,20,Male,34,None,Major,Snow,37,Assault
+01-01-2020,11:28:15,Vandalism,Bellandur,13.0836,77.5541,Female,49,Male,63,None,Major,Clear,15,Embezzlement
+01-02-2021,23:08:44,Embezzlement,Bellandur,12.9089,77.6502,Male,43,Male,35,Knife,None,Rain,36,Fraud
+14-09-2022,14:36:08,Theft,Indiranagar,13.006,77.7746,Female,41,Other,50,None,None,Overcast,27,Drug Offense
+25-11-2019,18:49:40,Drug Offense,Indiranagar,12.8374,77.4239,Female,20,Other,23,Gun,None,Partly Cloudy,37,Vandalism
+20-06-2018,14:02:41,Fraud,Bellandur,13.007,77.5102,Female,36,Female,46,None,Fatal,Partly Cloudy,39,None
+18-11-2018,21:18:46,Theft,Jayanagar,12.8594,77.7027,Other,40,Male,61,Gun,None,Rain,14,Robbery
+30-09-2022,00:25:26,Burglary,Bellandur,13.1325,77.7546,Other,35,Female,58,None,Minor,Snow,25,Assault
+20-01-2018,15:44:23,Theft,HSR Layout,13.0432,77.453,Other,24,Female,22,Knife,Fatal,Rain,6,Burglary
+24-06-2018,21:14:04,Forgery,Banashankari,12.8804,77.6976,Female,25,Other,18,None,None,Partly Cloudy,2,None
+28-08-2021,13:07:05,Robbery,Banashankari,13.0925,77.7921,Female,63,Female,46,Blunt Object,Minor,Partly Cloudy,14,Burglary
+15-11-2018,13:18:58,Fraud,Whitefield,13.058,77.5522,Other,28,Female,44,Gun,Minor,Overcast,19,Burglary
+26-02-2020,19:18:03,Assault,Kamakshipalya,13.0785,77.7727,Female,29,Other,43,None,Major,Partly Cloudy,13,Burglary
+26-11-2018,05:03:43,Burglary,Indiranagar,12.8887,77.7896,Male,28,Female,19,None,None,Clear,34,Fraud
+29-12-2019,17:24:39,Embezzlement,JP Nagar,13.0399,77.6179,Female,60,Female,57,Knife,None,Overcast,19,Fraud
+14-01-2022,14:52:45,Vandalism,Kamakshipalya,13.0471,77.5831,Female,30,Other,53,Gun,Fatal,Partly Cloudy,34,Assault
+04-09-2019,16:38:09,Forgery,Electronic City,13.1948,77.5461,Other,52,Male,51,Blunt Object,None,Clear,30,None
+22-09-2019,12:13:55,Embezzlement,HSR Layout,13.108,77.7146,Other,46,Male,55,Blunt Object,None,Partly Cloudy,36,Burglary
+21-03-2021,02:31:16,Drug Offense,JP Nagar,12.8064,77.5777,Male,59,Male,38,None,None,Snow,40,Fraud
+08-12-2018,21:54:38,Assault,JP Nagar,13.0357,77.4247,Male,37,Male,21,Gun,None,Partly Cloudy,14,Robbery
+26-01-2019,12:28:39,Robbery,Yelahanka,12.807,77.4851,Male,45,Male,40,None,Major,Clear,6,Embezzlement
+21-05-2018,19:10:10,Embezzlement,Yelahanka,12.8246,77.4991,Female,30,Other,49,Blunt Object,Major,Rain,1,Forgery
+22-05-2020,09:26:47,Burglary,JP Nagar,13.031,77.6469,Female,51,Male,23,Gun,None,Rain,9,Theft
+18-07-2022,09:07:27,Drug Offense,Jayanagar,12.8143,77.7795,Male,20,Other,64,Blunt Object,Fatal,Snow,16,Theft
+01-03-2021,04:35:21,Drug Offense,Indiranagar,13.1557,77.7941,Female,21,Female,27,None,Minor,Partly Cloudy,11,Theft
+29-08-2018,09:31:53,Burglary,Electronic City,12.9424,77.5023,Other,38,Male,50,Knife,None,Clear,0,Drug Offense
+22-10-2020,05:36:43,Burglary,Jayanagar,13.1732,77.6145,Female,38,Male,21,Blunt Object,Fatal,Overcast,30,Theft
+14-03-2019,06:42:34,Assault,Jayanagar,12.9616,77.6435,Male,27,Male,53,None,Fatal,Rain,38,Robbery
+25-03-2022,00:07:13,Robbery,Banashankari,12.8283,77.4209,Female,64,Male,60,Knife,Minor,Snow,37,Burglary
+14-10-2020,02:11:22,Assault,Marathahalli,13.0588,77.5564,Other,45,Female,34,None,Major,Clear,9,Vandalism
+17-01-2022,08:54:41,Robbery,Kamakshipalya,13.1952,77.7379,Female,23,Male,36,Gun,Fatal,Overcast,29,Embezzlement
+04-10-2018,16:54:51,Forgery,Koramangala,12.8681,77.7619,Male,43,Female,58,None,Major,Clear,15,Forgery
+06-06-2022,10:12:23,Vandalism,HSR Layout,12.8041,77.7839,Female,25,Other,28,Gun,Minor,Clear,24,Forgery
+19-08-2018,14:53:53,Fraud,Indiranagar,12.9427,77.7308,Other,37,Female,45,Gun,Minor,Clear,13,Robbery
+08-06-2019,06:38:39,Drug Offense,Electronic City,13.1118,77.5129,Male,44,Other,36,Gun,Minor,Overcast,17,Fraud
+14-11-2018,02:43:29,Theft,Marathahalli,13.0043,77.687,Male,44,Male,51,Knife,None,Rain,23,Theft
+12-03-2022,15:57:58,Burglary,Whitefield,13.0007,77.6325,Female,25,Female,44,Blunt Object,Major,Partly Cloudy,12,Drug Offense
+20-08-2022,06:47:23,Embezzlement,Indiranagar,13.0836,77.5867,Male,59,Other,47,Knife,Minor,Overcast,39,Assault
+24-03-2018,01:11:29,Robbery,Kamakshipalya,13.1061,77.6991,Female,55,Other,56,Blunt Object,Minor,Overcast,14,Drug Offense
+22-04-2021,05:42:52,Forgery,HSR Layout,12.9006,77.4492,Other,22,Other,64,Knife,Major,Rain,36,Forgery
+24-11-2019,02:15:25,Assault,Jayanagar,12.9413,77.4624,Female,46,Other,32,Blunt Object,Minor,Snow,21,Forgery
+23-01-2021,07:41:57,Robbery,HSR Layout,12.8912,77.6863,Male,19,Male,44,Gun,Major,Snow,22,Drug Offense
+10-03-2018,12:34:40,Vandalism,Banashankari,13.103,77.4275,Male,53,Female,61,Gun,Minor,Clear,20,Robbery
+31-03-2019,15:30:10,Forgery,Jayanagar,12.9138,77.7685,Female,45,Male,64,Knife,Minor,Partly Cloudy,32,Fraud
+10-05-2022,16:16:51,Theft,JP Nagar,12.8634,77.6861,Female,54,Other,56,Blunt Object,Minor,Partly Cloudy,4,Burglary
+27-10-2019,12:57:21,Theft,JP Nagar,12.9021,77.5464,Other,40,Other,52,Gun,None,Partly Cloudy,23,Forgery
+30-08-2021,11:32:55,Vandalism,Kamakshipalya,12.8065,77.501,Female,55,Other,57,None,None,Rain,37,Theft
+30-09-2018,03:30:32,Drug Offense,Marathahalli,12.8666,77.7975,Female,50,Female,21,Knife,Fatal,Overcast,30,Vandalism
+26-03-2019,00:20:44,Fraud,JP Nagar,13.0815,77.6536,Male,55,Male,24,Blunt Object,None,Clear,1,Robbery
+03-06-2018,10:49:24,Theft,Koramangala,12.983,77.4811,Male,64,Other,65,Knife,None,Partly Cloudy,34,Fraud
+16-05-2022,12:47:04,Embezzlement,Koramangala,12.9141,77.7391,Other,22,Male,54,Knife,None,Partly Cloudy,21,None
+19-12-2022,09:00:51,Fraud,Yelahanka,13.0745,77.677,Female,34,Male,56,Gun,Fatal,Partly Cloudy,31,Drug Offense
+09-11-2019,11:05:45,Robbery,Electronic City,12.9583,77.4235,Female,40,Male,51,Knife,Major,Overcast,30,Theft
+21-03-2020,14:16:36,Robbery,Banashankari,13.1831,77.5733,Other,36,Male,57,Gun,Fatal,Snow,7,Vandalism
+18-06-2021,03:20:59,Embezzlement,Marathahalli,13.112,77.574,Other,39,Male,43,Blunt Object,Major,Partly Cloudy,32,Theft
+13-12-2022,00:46:05,Fraud,Yelahanka,13.0399,77.5726,Male,53,Other,62,Gun,Minor,Snow,1,Assault
+17-12-2021,23:14:44,Vandalism,Yelahanka,13.1052,77.7429,Other,61,Female,37,Knife,None,Rain,32,Vandalism
+29-04-2018,23:24:49,Theft,Whitefield,13.0418,77.746,Other,23,Other,33,Gun,Minor,Snow,31,Forgery
+18-02-2019,02:35:47,Fraud,Marathahalli,12.8172,77.7659,Male,32,Female,56,Gun,Minor,Rain,9,Fraud
+27-03-2021,04:22:24,Burglary,Kamakshipalya,12.836,77.4045,Female,57,Female,30,None,Major,Snow,30,Forgery
+07-07-2019,12:29:18,Embezzlement,HSR Layout,13.1463,77.5409,Other,28,Female,28,Blunt Object,Major,Overcast,37,Embezzlement
+13-09-2021,18:36:23,Theft,Indiranagar,13.1933,77.7372,Male,48,Female,58,Gun,Minor,Overcast,13,Fraud
+12-08-2022,20:20:56,Burglary,Electronic City,12.8125,77.6135,Male,53,Female,63,Gun,None,Rain,40,Fraud
+17-11-2018,23:03:54,Robbery,JP Nagar,13.1367,77.4098,Female,47,Male,61,Blunt Object,Fatal,Rain,28,Vandalism
+15-07-2019,17:47:45,Embezzlement,Banashankari,12.8948,77.6144,Male,62,Female,63,Gun,None,Clear,10,Theft
+06-05-2019,12:08:58,Robbery,Whitefield,12.9636,77.5845,Female,35,Female,37,Knife,Major,Overcast,30,Assault
+16-10-2020,08:15:04,Drug Offense,Jayanagar,13.1919,77.5713,Other,35,Male,60,Blunt Object,Minor,Clear,34,Assault
+02-01-2019,21:25:54,Vandalism,Indiranagar,13.0446,77.7807,Male,20,Other,19,Blunt Object,Major,Partly Cloudy,18,Burglary
+22-09-2019,10:56:29,Robbery,Electronic City,13.1497,77.5389,Other,48,Male,36,Knife,Fatal,Snow,18,Assault
+30-11-2021,12:27:33,Burglary,JP Nagar,13.027,77.41,Other,49,Female,60,Gun,Minor,Clear,4,Assault
+27-03-2020,02:27:51,Robbery,Jayanagar,13.0023,77.7285,Male,51,Female,44,Blunt Object,Major,Clear,28,Robbery
+18-12-2020,15:14:12,Drug Offense,Bellandur,13.042,77.632,Female,31,Female,55,None,Minor,Snow,30,None
+10-12-2022,14:49:20,Fraud,Yelahanka,13.034,77.4359,Male,51,Female,27,None,Fatal,Rain,3,Drug Offense
+01-04-2020,04:19:31,Theft,Banashankari,13.1705,77.4949,Female,63,Other,45,Knife,Major,Snow,2,None
+19-11-2021,05:32:35,Fraud,Banashankari,13.102,77.449,Male,25,Other,22,Gun,Fatal,Snow,17,Burglary
+21-04-2021,01:55:42,Vandalism,Yelahanka,12.9617,77.5416,Other,34,Other,31,None,None,Snow,15,Burglary
+16-07-2019,02:54:08,Fraud,Banashankari,13.0713,77.4353,Female,54,Male,46,Gun,Minor,Clear,18,Robbery
+04-06-2018,01:05:12,Fraud,Electronic City,12.818,77.5384,Female,21,Male,37,None,None,Rain,26,Vandalism
+07-02-2020,09:58:49,Vandalism,JP Nagar,12.8532,77.7764,Female,19,Female,34,Gun,None,Overcast,2,Theft
+09-02-2018,12:50:23,Vandalism,Kamakshipalya,13.1167,77.5867,Other,47,Other,34,Gun,None,Rain,11,Fraud
+30-03-2020,20:02:09,Robbery,Marathahalli,12.8531,77.6181,Male,56,Male,43,Knife,Minor,Overcast,13,Drug Offense
+20-08-2019,04:38:45,Theft,Banashankari,13.051,77.6253,Female,36,Male,37,Knife,None,Rain,20,Fraud
+18-10-2020,16:50:02,Forgery,Indiranagar,13.014,77.4015,Male,29,Male,31,Knife,None,Partly Cloudy,0,Vandalism
+28-07-2021,06:41:03,Vandalism,HSR Layout,13.1697,77.5835,Other,27,Female,19,Gun,Fatal,Clear,20,Assault
+30-05-2020,03:26:24,Theft,Electronic City,12.8403,77.4094,Other,50,Other,58,Blunt Object,Fatal,Partly Cloudy,8,Embezzlement
+02-06-2018,01:58:18,Robbery,Koramangala,13.071,77.5988,Female,60,Other,18,Gun,None,Clear,22,Embezzlement
+18-05-2022,21:19:13,Robbery,Koramangala,13.0284,77.5535,Male,51,Other,64,Blunt Object,Fatal,Snow,9,Fraud
+05-11-2022,14:50:50,Forgery,Koramangala,13.1369,77.525,Female,52,Other,64,Blunt Object,None,Snow,26,Drug Offense
+09-08-2020,23:13:46,Embezzlement,Yelahanka,12.8308,77.7883,Female,41,Female,65,None,Major,Rain,37,Theft
+11-03-2019,06:54:51,Embezzlement,Yelahanka,12.9197,77.6002,Male,48,Female,52,Knife,Fatal,Clear,24,Embezzlement
+04-12-2020,18:23:27,Vandalism,Banashankari,13.0505,77.5188,Female,55,Male,46,Blunt Object,Major,Partly Cloudy,30,Assault
+16-06-2020,20:55:44,Assault,Banashankari,12.9366,77.6728,Female,56,Female,30,Knife,None,Snow,35,Vandalism
+24-02-2019,19:17:14,Burglary,Indiranagar,13.1692,77.4561,Other,49,Other,25,Blunt Object,Fatal,Clear,10,Drug Offense
+30-12-2022,04:20:46,Robbery,HSR Layout,12.8651,77.7933,Male,23,Male,41,None,None,Snow,20,Drug Offense
+24-12-2018,11:06:14,Vandalism,Bellandur,13.0337,77.7242,Other,33,Female,29,Blunt Object,None,Partly Cloudy,22,Embezzlement
+10-07-2021,12:44:38,Forgery,Whitefield,12.9832,77.6525,Female,45,Other,26,Blunt Object,Minor,Overcast,16,Robbery
+20-08-2019,13:26:09,Assault,Yelahanka,12.9926,77.5775,Other,46,Male,53,Blunt Object,Major,Rain,22,Fraud
+09-09-2019,11:26:08,Robbery,Yelahanka,13.1169,77.6077,Female,56,Other,56,Gun,Major,Clear,28,Embezzlement
+11-10-2019,15:30:22,Forgery,Kamakshipalya,12.8251,77.7387,Female,27,Other,28,Gun,Minor,Clear,25,Embezzlement
+30-04-2019,20:28:47,Fraud,JP Nagar,12.8302,77.7884,Other,49,Female,27,Gun,Fatal,Clear,40,Burglary
+30-08-2021,05:15:21,Drug Offense,Kamakshipalya,13.1678,77.7504,Male,35,Male,46,Gun,Major,Snow,19,Vandalism
+26-12-2021,04:38:51,Embezzlement,HSR Layout,12.8783,77.454,Male,18,Male,19,Blunt Object,Minor,Rain,16,None
+02-03-2020,18:30:48,Robbery,Marathahalli,12.955,77.4324,Female,63,Female,63,None,Minor,Overcast,12,Assault
+31-05-2021,12:42:53,Fraud,Koramangala,13.0775,77.6525,Female,63,Other,58,Blunt Object,None,Partly Cloudy,29,Vandalism
+09-12-2020,15:07:07,Fraud,Bellandur,13.0582,77.4945,Male,29,Male,60,Blunt Object,Minor,Overcast,22,Vandalism
+12-02-2022,00:29:45,Embezzlement,Jayanagar,13.1616,77.732,Female,41,Other,43,Blunt Object,Fatal,Partly Cloudy,4,None
+09-10-2022,09:21:10,Assault,Banashankari,12.8356,77.4173,Male,20,Female,51,Gun,Major,Rain,22,Burglary
+09-01-2018,12:07:37,Burglary,Koramangala,12.8765,77.4692,Female,23,Male,22,Knife,Minor,Clear,24,Burglary
+30-10-2022,13:40:13,Fraud,Banashankari,12.9333,77.4049,Female,18,Other,20,Blunt Object,Fatal,Overcast,17,Fraud
+04-03-2022,02:41:27,Drug Offense,HSR Layout,12.8322,77.5338,Male,35,Other,27,Knife,None,Overcast,28,Fraud
+03-08-2020,08:10:08,Robbery,Jayanagar,13.0711,77.5924,Male,35,Male,18,Gun,Major,Clear,21,Forgery
+02-08-2021,18:01:33,Vandalism,Kamakshipalya,12.971,77.4655,Female,19,Female,65,Gun,None,Rain,10,Embezzlement
+18-08-2019,20:44:23,Assault,Bellandur,12.8715,77.4846,Other,62,Female,23,None,Fatal,Overcast,33,Forgery
+08-05-2021,00:47:31,Theft,Banashankari,12.8129,77.412,Other,34,Male,43,None,Minor,Rain,18,Vandalism
+05-11-2018,00:48:50,Burglary,Koramangala,12.9746,77.4412,Male,62,Other,33,Knife,Major,Partly Cloudy,35,Theft
+29-07-2020,22:05:41,Assault,Yelahanka,12.9649,77.6689,Male,32,Male,24,None,None,Rain,33,Forgery
+02-05-2021,15:46:21,Fraud,Yelahanka,12.8514,77.4986,Other,21,Male,25,None,Fatal,Clear,9,None
+18-03-2019,21:59:53,Burglary,Indiranagar,13.1961,77.6458,Other,20,Female,43,Gun,Major,Partly Cloudy,18,None
+07-11-2020,07:48:10,Embezzlement,JP Nagar,12.9991,77.5728,Male,54,Female,60,None,Minor,Clear,26,Fraud
+13-09-2020,10:33:18,Burglary,Jayanagar,13.1772,77.6618,Female,29,Female,24,Blunt Object,Minor,Overcast,1,Vandalism
+27-09-2021,22:47:55,Robbery,Bellandur,13.1592,77.7385,Other,32,Female,23,Knife,None,Overcast,9,Fraud
+21-05-2022,18:45:22,Embezzlement,Electronic City,12.8833,77.4698,Female,40,Other,39,None,None,Overcast,15,Theft
+24-04-2019,12:21:27,Vandalism,Jayanagar,13.1626,77.5712,Other,25,Other,54,None,None,Rain,38,Theft
+09-09-2019,12:20:43,Fraud,Whitefield,13.1341,77.7839,Male,20,Other,57,Knife,Minor,Overcast,2,Burglary
+18-11-2019,00:03:57,Robbery,Bellandur,13.0913,77.735,Male,42,Female,60,Blunt Object,Minor,Partly Cloudy,16,None
+09-01-2019,09:33:24,Forgery,JP Nagar,13.0024,77.7754,Female,19,Other,54,Knife,Fatal,Clear,15,Burglary
+05-03-2018,07:04:55,Embezzlement,Indiranagar,13.0936,77.5392,Male,59,Female,48,None,Major,Overcast,12,Fraud
+15-10-2018,06:32:58,Fraud,Bellandur,13.0257,77.4859,Other,26,Male,31,Blunt Object,None,Partly Cloudy,28,Drug Offense
+29-03-2019,20:31:48,Burglary,Electronic City,12.9879,77.5602,Female,28,Female,55,Gun,Minor,Snow,18,Burglary
+22-09-2020,09:28:26,Drug Offense,Indiranagar,13.1025,77.6433,Male,58,Male,38,Gun,Fatal,Clear,27,Vandalism
+08-01-2018,02:36:41,Forgery,Indiranagar,13.1228,77.557,Male,48,Female,31,None,Major,Overcast,3,Embezzlement
+15-02-2018,07:38:34,Theft,Jayanagar,12.8948,77.471,Other,19,Female,29,None,Major,Snow,0,Drug Offense
+17-10-2021,06:57:54,Theft,Yelahanka,12.9473,77.6179,Male,35,Other,29,Knife,None,Partly Cloudy,24,Embezzlement
+28-05-2020,02:38:53,Robbery,Yelahanka,12.9506,77.7897,Male,57,Male,34,None,None,Snow,38,Robbery
+18-11-2019,15:28:32,Forgery,Marathahalli,12.8126,77.4357,Female,18,Other,47,None,None,Partly Cloudy,35,Assault
+08-05-2021,20:55:44,Forgery,Bellandur,12.9711,77.6794,Other,29,Male,21,Gun,Fatal,Rain,21,Forgery
+28-09-2019,19:30:54,Fraud,Kamakshipalya,13.1788,77.6019,Other,63,Female,52,Knife,Minor,Rain,10,Burglary
+18-07-2018,17:07:40,Forgery,Marathahalli,13.0761,77.6477,Female,26,Female,45,Gun,Fatal,Clear,4,Drug Offense
+09-05-2022,08:02:45,Fraud,Marathahalli,13.0737,77.7621,Other,55,Male,64,Knife,None,Clear,18,Drug Offense
+31-05-2020,01:31:41,Burglary,Indiranagar,13.1562,77.6309,Female,49,Female,57,Blunt Object,Minor,Overcast,31,Drug Offense
+14-02-2019,11:54:11,Fraud,Indiranagar,12.956,77.5674,Male,41,Male,62,Knife,Major,Partly Cloudy,40,Burglary
+31-05-2019,14:16:34,Vandalism,Banashankari,13.0989,77.6586,Female,18,Male,63,Knife,Minor,Partly Cloudy,2,Burglary
+12-02-2022,06:16:08,Assault,Bellandur,12.9461,77.5713,Female,59,Male,46,Blunt Object,Major,Clear,0,Burglary
+22-05-2019,22:52:32,Fraud,Banashankari,13.1792,77.6258,Female,45,Other,57,None,Major,Clear,35,Embezzlement
+07-10-2021,13:30:05,Theft,Jayanagar,13.0288,77.7867,Female,55,Male,57,Gun,Minor,Partly Cloudy,6,Embezzlement
+09-12-2018,21:10:02,Theft,Kamakshipalya,12.9204,77.4214,Other,31,Female,38,Gun,Fatal,Partly Cloudy,5,None
+14-09-2018,03:33:46,Drug Offense,Jayanagar,13.1422,77.5986,Male,38,Female,33,None,Major,Snow,25,Fraud
+18-01-2019,21:41:36,Vandalism,JP Nagar,13.1726,77.5013,Female,25,Other,59,Knife,Major,Clear,18,Burglary
+11-04-2022,16:01:51,Vandalism,Banashankari,13.0698,77.5901,Male,45,Male,33,None,Major,Overcast,21,Drug Offense
+14-02-2019,06:33:36,Vandalism,Kamakshipalya,13,77.6377,Male,43,Female,43,Knife,Major,Partly Cloudy,28,Forgery
+12-12-2020,07:22:02,Burglary,Electronic City,12.8712,77.5717,Other,41,Male,29,Knife,Fatal,Overcast,33,Fraud
+24-10-2018,00:53:53,Embezzlement,Electronic City,13.1809,77.7698,Other,41,Female,38,Gun,None,Clear,40,Robbery
+19-09-2022,03:19:39,Assault,Indiranagar,13.0555,77.7679,Male,57,Male,33,None,Major,Rain,24,Burglary
+28-11-2018,07:29:38,Embezzlement,Yelahanka,12.9961,77.4583,Female,28,Female,37,Knife,Major,Snow,7,Embezzlement
+29-04-2020,17:07:00,Embezzlement,Marathahalli,12.9567,77.4394,Female,60,Female,24,Knife,Fatal,Overcast,16,Theft
+01-07-2022,08:17:36,Assault,HSR Layout,13.1143,77.4232,Other,23,Male,55,None,None,Overcast,24,None
+09-03-2020,19:30:19,Burglary,Banashankari,13.1304,77.4038,Female,52,Male,22,None,Minor,Snow,17,Forgery
+20-10-2018,08:33:00,Theft,JP Nagar,12.9682,77.4825,Female,23,Other,40,Knife,None,Partly Cloudy,11,Fraud
+21-03-2021,22:56:53,Embezzlement,Koramangala,12.8934,77.4558,Male,18,Other,31,None,Fatal,Rain,32,Vandalism
+19-07-2018,10:35:44,Drug Offense,Banashankari,12.9718,77.4858,Male,48,Male,57,Blunt Object,Minor,Partly Cloudy,35,Fraud
+03-11-2020,23:07:27,Burglary,HSR Layout,12.9823,77.5341,Other,24,Male,63,Gun,None,Partly Cloudy,25,Vandalism
+16-09-2018,16:56:50,Burglary,Marathahalli,13.1744,77.5357,Male,44,Other,41,Gun,Major,Partly Cloudy,31,Embezzlement
+07-09-2019,21:44:51,Burglary,JP Nagar,13.0088,77.5557,Female,25,Female,58,Gun,Major,Partly Cloudy,23,None
+27-02-2020,20:47:17,Fraud,Bellandur,13.0143,77.4896,Female,48,Other,65,Gun,Fatal,Rain,2,Assault
+01-09-2019,21:24:53,Drug Offense,Whitefield,12.9324,77.4711,Other,54,Other,33,Knife,None,Overcast,32,Forgery
+11-02-2022,02:17:11,Forgery,Banashankari,12.9097,77.5268,Female,45,Female,50,Gun,None,Rain,17,Assault
+11-09-2021,14:49:13,Vandalism,Whitefield,13.1037,77.5897,Other,57,Male,47,None,Fatal,Partly Cloudy,33,Assault
+12-12-2020,09:54:09,Forgery,Electronic City,13.0179,77.7877,Male,50,Other,57,None,Minor,Snow,26,Robbery
+21-08-2022,17:36:02,Drug Offense,Indiranagar,13.0895,77.7399,Other,27,Other,37,Blunt Object,None,Overcast,33,None
+26-11-2018,09:04:58,Assault,Banashankari,13.0636,77.6571,Other,52,Other,30,None,None,Overcast,31,None
+14-03-2018,12:27:08,Assault,Banashankari,12.9903,77.4846,Female,34,Other,38,Gun,Fatal,Overcast,23,None
+27-09-2020,23:13:47,Burglary,Electronic City,13.1446,77.6303,Male,64,Male,39,Gun,Fatal,Clear,25,Assault
+24-04-2020,13:41:04,Robbery,Jayanagar,12.9304,77.6486,Other,55,Female,22,Blunt Object,Major,Clear,10,Burglary
+30-09-2018,16:00:14,Vandalism,HSR Layout,12.9098,77.7818,Male,50,Other,45,None,Fatal,Clear,17,Burglary
+11-07-2018,02:46:02,Embezzlement,Yelahanka,13.0246,77.6079,Male,36,Other,47,Knife,Minor,Partly Cloudy,36,None
+07-02-2018,12:52:28,Burglary,Yelahanka,12.9583,77.4938,Female,39,Female,39,Blunt Object,Minor,Overcast,19,Assault
+26-07-2018,00:45:42,Forgery,Indiranagar,13.1957,77.536,Other,39,Male,19,Blunt Object,Minor,Clear,16,Drug Offense
+07-05-2020,10:20:24,Drug Offense,Electronic City,12.8819,77.7257,Female,47,Female,56,Gun,None,Overcast,22,Forgery
+01-02-2022,22:27:21,Vandalism,Koramangala,13.0475,77.4715,Male,29,Female,51,None,Minor,Clear,28,Drug Offense
+06-11-2021,02:54:59,Forgery,Kamakshipalya,13.0967,77.68,Female,38,Other,28,Blunt Object,None,Partly Cloudy,17,Drug Offense
+21-07-2020,20:14:51,Assault,Electronic City,12.9106,77.5336,Female,49,Other,44,None,Minor,Rain,4,Robbery
+02-01-2021,08:56:22,Robbery,Bellandur,13.1772,77.4921,Male,49,Other,37,Knife,Minor,Partly Cloudy,5,Robbery
+12-03-2022,18:06:15,Drug Offense,Kamakshipalya,12.9133,77.5893,Male,23,Other,47,Blunt Object,Fatal,Clear,38,Vandalism
+07-09-2019,22:32:41,Robbery,Whitefield,13.145,77.726,Female,54,Female,56,Gun,Major,Overcast,37,Assault
+20-10-2022,23:54:54,Vandalism,Banashankari,13.1158,77.6489,Other,53,Female,35,Knife,Minor,Snow,23,Drug Offense
+24-10-2021,23:32:07,Embezzlement,Banashankari,12.9267,77.7038,Male,49,Other,31,None,Major,Clear,16,Burglary
+08-08-2020,18:10:10,Embezzlement,Jayanagar,12.8039,77.7466,Other,53,Female,50,Blunt Object,Major,Overcast,30,Robbery
+28-03-2021,20:44:32,Robbery,Koramangala,12.8216,77.7261,Female,20,Male,45,Blunt Object,Minor,Overcast,33,Assault
+01-09-2021,01:15:40,Drug Offense,Electronic City,13.0381,77.7426,Male,58,Other,46,Blunt Object,None,Snow,37,Drug Offense
+26-09-2019,11:48:18,Drug Offense,Jayanagar,13.1773,77.4645,Male,64,Female,51,Knife,None,Partly Cloudy,5,Burglary
+13-12-2022,10:46:21,Drug Offense,Electronic City,12.9923,77.7198,Female,22,Other,65,Gun,Major,Rain,36,Vandalism
+29-07-2018,17:44:49,Theft,JP Nagar,12.8452,77.4733,Other,34,Female,33,Knife,None,Partly Cloudy,11,Burglary
+19-02-2022,03:47:35,Fraud,Koramangala,13.1618,77.5665,Other,31,Female,55,Knife,Major,Clear,22,Drug Offense
+20-10-2018,16:00:09,Burglary,Indiranagar,13.1326,77.6667,Other,58,Male,37,Blunt Object,Minor,Clear,12,Embezzlement
+19-08-2019,05:21:36,Forgery,Marathahalli,13.0203,77.6663,Male,65,Female,56,Blunt Object,Minor,Rain,31,Fraud
+01-11-2021,20:08:40,Assault,Kamakshipalya,12.9739,77.6366,Other,65,Female,60,None,Major,Clear,10,Drug Offense
+02-11-2020,02:40:44,Theft,Kamakshipalya,12.8433,77.7942,Male,33,Other,21,Blunt Object,Minor,Clear,14,Burglary
+17-06-2018,02:14:50,Drug Offense,Marathahalli,12.9945,77.5886,Other,58,Other,48,None,Major,Snow,38,Robbery
+08-04-2019,02:21:12,Embezzlement,Indiranagar,12.9071,77.6276,Female,40,Other,62,None,Fatal,Rain,26,Embezzlement
+25-05-2018,03:52:59,Forgery,Jayanagar,12.8163,77.5333,Female,42,Female,23,Blunt Object,None,Snow,30,Fraud
+13-02-2022,23:59:43,Drug Offense,Electronic City,13.0442,77.5721,Male,27,Other,22,Blunt Object,Major,Overcast,25,Assault
+25-07-2022,09:10:09,Embezzlement,Koramangala,12.9739,77.5011,Other,62,Female,36,Blunt Object,None,Snow,3,None
+02-01-2019,03:01:06,Burglary,Banashankari,12.847,77.7406,Other,34,Female,39,None,Major,Overcast,36,Embezzlement
+20-06-2018,11:12:20,Vandalism,Indiranagar,12.9523,77.5935,Male,20,Other,35,Blunt Object,Fatal,Clear,37,Burglary
+28-10-2018,05:31:18,Burglary,Marathahalli,12.8211,77.6381,Male,23,Female,41,None,Fatal,Clear,21,Drug Offense
+30-05-2021,02:33:15,Fraud,HSR Layout,12.8718,77.4757,Male,46,Female,39,None,None,Overcast,32,None
+10-07-2021,19:43:28,Assault,Whitefield,12.9981,77.6975,Female,55,Male,55,Knife,Major,Partly Cloudy,5,Drug Offense
+15-11-2020,13:28:08,Assault,Kamakshipalya,13.0569,77.5863,Other,59,Other,42,None,None,Snow,11,Forgery
+22-06-2022,20:12:12,Assault,Electronic City,12.8234,77.5091,Other,34,Other,37,Knife,Major,Overcast,9,Assault
+23-03-2022,12:29:57,Assault,Koramangala,12.826,77.5866,Female,55,Other,43,Gun,Minor,Clear,14,Fraud
+28-05-2019,19:14:49,Drug Offense,Electronic City,13.1867,77.4749,Female,35,Male,20,Gun,Major,Partly Cloudy,25,Assault
+27-01-2018,03:11:41,Drug Offense,Kamakshipalya,13.1075,77.5288,Male,65,Male,25,Blunt Object,Major,Snow,38,Robbery
+26-12-2021,14:27:14,Assault,Banashankari,13.0806,77.7958,Female,59,Male,62,Blunt Object,Minor,Overcast,12,Drug Offense
+24-02-2019,03:08:29,Robbery,Marathahalli,12.9026,77.473,Other,63,Other,54,Knife,Minor,Snow,2,Theft
+12-06-2018,08:34:11,Forgery,JP Nagar,13.1646,77.5529,Female,60,Other,57,None,None,Overcast,27,Drug Offense
+04-06-2021,17:40:54,Theft,Kamakshipalya,12.9745,77.755,Other,61,Male,20,Knife,Minor,Rain,2,Robbery
+06-04-2020,21:42:39,Fraud,Koramangala,12.8347,77.4025,Other,28,Female,26,Knife,None,Snow,21,Assault
+26-10-2021,06:21:55,Fraud,Jayanagar,12.8065,77.5817,Other,29,Male,50,Blunt Object,Minor,Overcast,30,Drug Offense
+10-11-2019,11:41:46,Vandalism,Kamakshipalya,13.0435,77.6328,Male,52,Male,28,Knife,None,Partly Cloudy,1,Theft
+10-01-2022,01:20:21,Forgery,Koramangala,13.1858,77.7249,Female,49,Other,47,Gun,Fatal,Overcast,27,Fraud
+17-01-2022,02:51:03,Robbery,Bellandur,13.0463,77.5768,Other,38,Male,38,None,None,Snow,34,Forgery
+12-04-2021,20:03:23,Forgery,Bellandur,12.9499,77.5427,Male,43,Female,38,Knife,Major,Partly Cloudy,5,Theft
+24-05-2019,20:57:09,Vandalism,Bellandur,13.1815,77.7735,Male,61,Other,32,Knife,None,Rain,20,Burglary
+25-02-2018,15:58:01,Robbery,Bellandur,13.0741,77.7037,Female,55,Other,19,None,Fatal,Partly Cloudy,15,Fraud
+02-04-2021,02:55:00,Drug Offense,Marathahalli,12.9598,77.7939,Male,41,Male,30,Knife,Major,Snow,18,Robbery
+22-06-2019,09:03:28,Fraud,Koramangala,12.8218,77.7629,Female,60,Female,36,Gun,Major,Rain,23,Forgery
+29-04-2022,08:12:36,Drug Offense,Yelahanka,12.8894,77.7572,Female,39,Female,37,Knife,Major,Overcast,20,Theft
+17-11-2022,20:41:03,Robbery,JP Nagar,13.129,77.472,Female,23,Female,50,Gun,None,Partly Cloudy,35,Embezzlement
+24-08-2019,06:27:10,Assault,Yelahanka,13.1071,77.7169,Other,58,Female,28,None,Fatal,Partly Cloudy,39,Assault
+04-01-2019,11:28:08,Drug Offense,Jayanagar,13.1841,77.6637,Male,23,Female,37,Gun,Major,Clear,33,Robbery
+11-03-2020,07:04:37,Drug Offense,Whitefield,13.1998,77.7279,Female,28,Other,18,None,Fatal,Snow,32,Robbery
+13-06-2022,21:28:16,Forgery,Whitefield,12.8939,77.6577,Female,60,Male,49,Knife,None,Rain,12,Theft
+26-09-2022,21:17:30,Theft,JP Nagar,12.9373,77.5595,Male,36,Other,32,None,Minor,Clear,19,Forgery
+16-08-2022,13:12:28,Drug Offense,Kamakshipalya,12.8951,77.7927,Male,57,Male,38,Knife,Minor,Rain,2,Forgery
+04-04-2020,02:43:11,Vandalism,Banashankari,13.1524,77.5365,Female,65,Female,63,None,Major,Clear,5,Robbery
+02-03-2020,14:21:00,Forgery,Marathahalli,13.013,77.7727,Other,22,Other,32,Gun,Fatal,Snow,36,Robbery
+05-07-2021,09:03:05,Assault,Kamakshipalya,13.192,77.7247,Female,41,Female,34,Gun,Major,Rain,19,Vandalism
+11-12-2020,09:37:35,Assault,Electronic City,12.9128,77.7341,Other,48,Male,31,Knife,Minor,Snow,19,Embezzlement
+28-09-2021,07:18:32,Burglary,Jayanagar,12.9801,77.6919,Female,45,Male,34,None,Minor,Overcast,24,Assault
+26-07-2018,15:53:21,Fraud,Banashankari,12.8369,77.4062,Male,19,Other,32,Gun,Major,Clear,2,None
+01-05-2022,11:16:30,Burglary,HSR Layout,13.1113,77.694,Female,34,Male,43,Knife,Minor,Rain,0,None
+15-05-2018,01:23:47,Forgery,Marathahalli,13.0882,77.4625,Female,30,Other,39,Gun,Major,Snow,13,Theft
+01-09-2020,23:27:21,Vandalism,Kamakshipalya,12.8913,77.7428,Female,22,Male,58,Knife,Major,Snow,38,Theft
+23-07-2018,21:17:13,Embezzlement,Banashankari,13.1989,77.4687,Male,26,Female,60,Blunt Object,Fatal,Snow,15,Assault
+15-06-2019,17:08:06,Vandalism,Marathahalli,13.1428,77.5396,Male,29,Male,62,Gun,None,Snow,2,Assault
+10-06-2019,05:42:53,Theft,Kamakshipalya,12.9728,77.6899,Female,50,Male,31,Blunt Object,Minor,Clear,36,Forgery
+13-04-2021,10:41:16,Forgery,Bellandur,12.8901,77.5474,Female,65,Female,54,None,Major,Partly Cloudy,35,Vandalism
+19-12-2019,17:14:53,Forgery,HSR Layout,13.0326,77.5668,Female,55,Female,62,Knife,None,Rain,24,Fraud
+24-10-2019,23:46:15,Embezzlement,Yelahanka,13.1512,77.7746,Female,54,Other,21,Knife,Major,Snow,14,Vandalism
+25-03-2018,22:41:54,Drug Offense,Indiranagar,13.0771,77.5686,Other,51,Female,64,None,Major,Rain,38,Burglary
+06-08-2018,12:54:20,Forgery,Jayanagar,12.9101,77.7992,Male,53,Other,31,None,Minor,Partly Cloudy,19,Forgery
+14-09-2019,05:37:11,Drug Offense,Kamakshipalya,12.9606,77.6048,Female,61,Female,38,Blunt Object,Fatal,Clear,9,Fraud
+25-05-2021,23:18:21,Burglary,Electronic City,13.1963,77.6091,Other,63,Other,64,Knife,Fatal,Overcast,1,Vandalism
+15-09-2019,20:11:45,Theft,Koramangala,13.1217,77.7857,Other,63,Female,32,Gun,None,Overcast,20,Burglary
+08-01-2019,02:43:30,Robbery,Kamakshipalya,12.9317,77.497,Other,32,Male,22,Knife,Minor,Partly Cloudy,20,Assault
+16-08-2019,02:48:06,Theft,Banashankari,13.0836,77.5146,Other,48,Female,27,Blunt Object,None,Clear,10,Forgery
+03-06-2020,06:31:46,Assault,Jayanagar,13.0774,77.6776,Other,49,Other,50,Gun,None,Overcast,37,Embezzlement
+10-08-2019,22:28:06,Assault,Yelahanka,12.8953,77.6995,Other,23,Male,58,Knife,Fatal,Overcast,9,Fraud
+29-10-2019,15:19:53,Vandalism,Marathahalli,13.0089,77.6292,Male,48,Other,35,Gun,None,Snow,24,None
+10-08-2018,09:54:55,Drug Offense,Whitefield,12.8476,77.6483,Other,18,Other,30,Knife,Major,Rain,35,Assault
+19-07-2021,00:51:29,Assault,Electronic City,12.8326,77.6902,Male,49,Other,47,Blunt Object,Major,Partly Cloudy,15,Drug Offense
+28-03-2018,18:00:30,Robbery,Jayanagar,13.1132,77.5085,Female,29,Other,29,None,Fatal,Partly Cloudy,40,Robbery
+04-05-2020,18:06:26,Assault,Marathahalli,12.9487,77.5099,Female,61,Other,49,Gun,Fatal,Clear,30,Embezzlement
+25-03-2019,14:12:48,Vandalism,Kamakshipalya,13.0998,77.6357,Other,36,Male,40,Blunt Object,Major,Overcast,3,Theft
+03-02-2019,14:28:19,Forgery,JP Nagar,12.83,77.6969,Other,33,Male,38,Blunt Object,Major,Rain,5,Fraud
+13-01-2018,17:28:16,Embezzlement,HSR Layout,12.8045,77.7363,Male,60,Male,43,None,Minor,Overcast,19,Robbery
+13-12-2022,00:59:59,Embezzlement,Electronic City,13.0366,77.5397,Female,65,Female,36,Gun,Fatal,Clear,13,Forgery
+12-02-2022,02:09:54,Fraud,Bellandur,13.0855,77.4513,Other,58,Other,22,Gun,Major,Clear,4,Drug Offense
+18-06-2022,06:42:17,Robbery,Koramangala,13.1332,77.7723,Other,25,Male,27,Blunt Object,Major,Rain,1,Assault
+07-05-2021,22:47:09,Embezzlement,JP Nagar,13.0804,77.6954,Male,48,Male,22,Knife,Fatal,Overcast,1,Burglary
+07-08-2020,13:08:07,Assault,JP Nagar,12.9786,77.5838,Male,62,Other,47,Knife,Minor,Clear,7,None
+28-03-2018,06:29:23,Drug Offense,JP Nagar,13.0445,77.5021,Other,57,Other,25,Gun,Fatal,Partly Cloudy,20,Assault
+28-10-2021,11:09:56,Fraud,Whitefield,13.024,77.792,Male,50,Other,52,Blunt Object,Minor,Rain,2,Drug Offense
+16-06-2019,10:40:40,Embezzlement,Kamakshipalya,13.1813,77.7879,Male,58,Male,51,Knife,Fatal,Snow,15,None
+28-01-2019,21:34:08,Robbery,Bellandur,13.1236,77.7541,Male,41,Male,19,Blunt Object,None,Snow,15,Theft
+03-07-2018,22:31:04,Assault,Bellandur,13.0919,77.5856,Female,55,Other,22,None,None,Overcast,35,Assault
+29-12-2020,06:08:35,Assault,Bellandur,13.0544,77.531,Female,53,Male,62,Blunt Object,Major,Partly Cloudy,29,Theft
+16-08-2022,12:22:06,Vandalism,Banashankari,12.9951,77.6202,Male,56,Female,34,None,Major,Clear,6,Fraud
+25-05-2021,08:38:00,Burglary,Yelahanka,13.0893,77.7606,Male,50,Male,25,Knife,Fatal,Rain,38,Forgery
+17-09-2022,14:19:23,Assault,HSR Layout,12.9585,77.6064,Male,51,Male,25,Knife,Fatal,Partly Cloudy,6,Drug Offense
+11-05-2022,18:55:06,Embezzlement,Electronic City,13.0327,77.7592,Female,51,Female,65,Gun,Fatal,Partly Cloudy,8,Forgery
+15-07-2019,11:55:15,Vandalism,HSR Layout,12.9229,77.533,Other,55,Female,21,Knife,None,Rain,29,Fraud
+16-06-2020,08:45:04,Fraud,Jayanagar,12.9118,77.7224,Female,51,Other,36,Knife,Fatal,Clear,14,Vandalism
+12-05-2020,05:02:27,Robbery,Koramangala,12.9598,77.4933,Female,20,Other,63,Blunt Object,None,Rain,17,Assault
+03-12-2021,21:01:01,Embezzlement,Whitefield,12.9592,77.7715,Female,30,Female,30,Gun,Fatal,Snow,0,Vandalism
+08-12-2020,10:46:07,Drug Offense,Electronic City,13.1749,77.4422,Female,42,Female,19,Blunt Object,Major,Snow,8,Assault
+14-10-2018,04:04:29,Fraud,Yelahanka,12.8744,77.6604,Male,43,Female,36,Blunt Object,Major,Snow,26,Drug Offense
+05-09-2022,12:23:35,Vandalism,Electronic City,13.0624,77.6791,Female,62,Other,29,Knife,None,Clear,31,Drug Offense
+12-04-2021,05:04:54,Assault,Yelahanka,13.0285,77.7064,Male,43,Female,37,None,Minor,Rain,32,Drug Offense
+03-03-2022,07:47:05,Assault,Banashankari,12.9288,77.7658,Other,20,Other,30,Blunt Object,Major,Clear,27,Burglary
+16-11-2019,23:29:29,Forgery,Whitefield,12.9182,77.7976,Other,41,Male,29,Knife,Fatal,Snow,2,Robbery
+29-05-2022,04:59:01,Embezzlement,Yelahanka,13.0366,77.7925,Female,32,Other,31,Knife,Minor,Overcast,7,Theft
+25-04-2019,06:26:41,Burglary,Electronic City,12.8415,77.7331,Female,32,Male,30,None,Major,Rain,15,Fraud
+05-06-2019,17:24:54,Assault,Koramangala,12.8393,77.777,Female,19,Female,40,Gun,Fatal,Rain,31,Drug Offense
+31-12-2018,10:17:12,Theft,Yelahanka,12.8025,77.4393,Female,43,Other,58,Blunt Object,Minor,Snow,38,Drug Offense
+28-09-2018,01:14:52,Drug Offense,Yelahanka,12.82,77.6913,Female,46,Female,55,None,None,Rain,32,Assault
+16-11-2019,06:02:28,Burglary,Banashankari,12.9832,77.621,Female,53,Male,27,Knife,Major,Snow,21,Embezzlement
+17-06-2022,08:34:37,Embezzlement,Indiranagar,13.1195,77.6695,Male,58,Male,43,Knife,Major,Overcast,30,Embezzlement
+25-06-2020,14:01:46,Fraud,Koramangala,12.8431,77.4704,Other,54,Female,25,Knife,Fatal,Clear,10,None
+24-06-2021,05:03:34,Theft,Koramangala,12.8659,77.552,Male,51,Female,63,Knife,Fatal,Snow,0,Theft
+27-11-2019,11:58:39,Forgery,Koramangala,13.0898,77.44,Male,45,Other,27,None,Minor,Snow,29,Robbery
+26-11-2019,03:43:59,Robbery,Indiranagar,12.9569,77.5731,Female,42,Male,23,Gun,Fatal,Rain,35,Burglary
+31-05-2019,16:39:03,Burglary,Koramangala,12.8308,77.6939,Other,27,Other,62,Knife,None,Overcast,22,Vandalism
+09-11-2021,19:33:27,Assault,Kamakshipalya,12.8882,77.7853,Male,48,Male,64,Gun,Minor,Clear,22,Robbery
+18-12-2021,08:26:03,Burglary,Whitefield,12.939,77.4726,Other,18,Female,23,Blunt Object,None,Snow,15,None
+07-09-2021,01:23:43,Robbery,Jayanagar,12.9251,77.6686,Female,26,Other,38,None,Major,Partly Cloudy,9,Forgery
+09-04-2019,17:09:31,Burglary,Yelahanka,13.0694,77.4085,Female,24,Other,20,Gun,Major,Overcast,28,Theft
+23-07-2022,06:47:34,Robbery,Jayanagar,13.0355,77.7887,Female,64,Female,58,Blunt Object,Fatal,Rain,34,Burglary
+03-07-2019,01:27:32,Embezzlement,Electronic City,12.9252,77.7661,Female,40,Female,19,None,Minor,Clear,23,Theft
+24-11-2020,17:31:32,Embezzlement,Bellandur,13.1956,77.5285,Male,27,Female,46,None,Major,Overcast,23,Robbery
+07-10-2021,02:52:44,Embezzlement,Kamakshipalya,13.155,77.5801,Other,35,Female,56,Gun,Fatal,Overcast,0,Vandalism
+01-09-2019,19:04:52,Embezzlement,Electronic City,12.8482,77.5009,Other,35,Male,38,Blunt Object,Major,Clear,11,Forgery
+03-03-2020,05:02:14,Assault,Kamakshipalya,13.0741,77.7962,Other,61,Male,34,Blunt Object,Major,Snow,6,Drug Offense
+10-11-2018,04:30:48,Drug Offense,Koramangala,12.8267,77.6946,Other,43,Female,33,None,Fatal,Clear,9,Embezzlement
+04-08-2022,08:28:57,Embezzlement,Banashankari,12.9232,77.7488,Other,50,Other,62,None,Major,Rain,28,Vandalism
+21-11-2020,23:53:06,Fraud,HSR Layout,13.1112,77.7466,Female,45,Other,45,Gun,None,Snow,24,Assault
+01-09-2018,01:50:53,Vandalism,Bellandur,13.0472,77.568,Female,40,Female,50,None,Major,Clear,7,Vandalism
+01-12-2022,21:44:15,Forgery,JP Nagar,13.0808,77.7764,Female,30,Female,54,None,Major,Snow,23,None
+10-09-2022,14:18:49,Theft,HSR Layout,12.9832,77.6665,Other,39,Female,48,None,None,Partly Cloudy,22,Robbery
+14-02-2019,06:49:12,Drug Offense,Jayanagar,13.1207,77.6681,Male,54,Female,57,Knife,Minor,Snow,21,Forgery
+03-12-2018,11:23:26,Drug Offense,JP Nagar,13.1211,77.4663,Female,40,Female,63,Knife,Major,Snow,4,Forgery
+15-06-2018,10:53:46,Drug Offense,Banashankari,13.1653,77.7751,Male,38,Other,26,Knife,Minor,Overcast,0,Embezzlement
+14-07-2021,21:51:24,Drug Offense,Kamakshipalya,13.0446,77.6965,Male,45,Other,50,None,Fatal,Clear,0,Fraud
+19-10-2018,16:05:18,Burglary,Marathahalli,12.807,77.4338,Female,40,Male,23,Knife,Fatal,Clear,11,Embezzlement
+04-01-2021,09:24:57,Forgery,Jayanagar,13.1675,77.5174,Other,50,Female,37,None,Minor,Snow,13,Embezzlement
+08-12-2020,11:14:43,Embezzlement,Banashankari,12.8587,77.5102,Male,19,Female,21,Gun,None,Rain,19,Vandalism
+13-06-2020,04:21:43,Assault,Whitefield,13.1765,77.4961,Male,35,Male,48,Gun,Minor,Clear,30,Theft
+20-12-2022,13:38:36,Burglary,Kamakshipalya,12.8227,77.7797,Other,56,Other,57,Knife,Fatal,Snow,2,Robbery
+09-09-2022,05:40:15,Assault,Kamakshipalya,12.9029,77.6169,Male,58,Female,35,Gun,Fatal,Rain,37,Embezzlement
+23-02-2021,22:37:06,Vandalism,Indiranagar,12.8554,77.7202,Female,21,Female,64,Blunt Object,Fatal,Overcast,22,Assault
+15-01-2020,16:53:47,Theft,Whitefield,13.1999,77.4145,Female,38,Other,24,Blunt Object,Major,Partly Cloudy,14,Theft
+07-12-2019,08:02:45,Drug Offense,Electronic City,13.0741,77.5834,Male,37,Male,56,None,Minor,Overcast,29,Theft
+11-07-2019,21:16:08,Robbery,Jayanagar,12.9145,77.4768,Other,30,Other,20,Knife,Major,Overcast,11,Theft
+18-06-2021,16:56:11,Assault,Banashankari,12.9708,77.5111,Male,52,Other,27,None,Major,Clear,10,Burglary
+14-02-2018,12:06:38,Vandalism,Electronic City,13.1242,77.7058,Female,36,Male,55,Blunt Object,None,Rain,3,Drug Offense
+26-02-2021,13:14:32,Robbery,JP Nagar,13.1261,77.7696,Female,34,Female,35,Blunt Object,Minor,Overcast,16,None
+07-06-2018,20:42:55,Robbery,Indiranagar,12.8291,77.5168,Female,36,Female,56,None,Fatal,Partly Cloudy,7,None
+02-08-2022,17:15:04,Forgery,HSR Layout,13.1226,77.669,Other,34,Male,41,Gun,Minor,Rain,10,Burglary
+18-03-2018,06:12:38,Forgery,Kamakshipalya,13.161,77.4457,Female,59,Male,57,Gun,Fatal,Clear,8,Drug Offense
+02-10-2019,04:06:53,Theft,Electronic City,13.0402,77.5147,Male,55,Male,54,Blunt Object,None,Snow,21,None
+26-08-2022,18:28:07,Robbery,Yelahanka,12.8854,77.6423,Female,27,Male,63,None,None,Partly Cloudy,13,Assault
+22-08-2019,05:21:21,Fraud,Banashankari,13.0826,77.6668,Female,42,Female,52,Gun,Fatal,Snow,3,Vandalism
+15-01-2019,20:52:48,Vandalism,Whitefield,13.0293,77.7885,Male,38,Female,64,Gun,None,Rain,29,Theft
+27-07-2022,02:22:15,Vandalism,Whitefield,13.0167,77.7956,Female,56,Other,22,Gun,Fatal,Overcast,37,None
+13-06-2020,13:42:28,Forgery,Electronic City,12.8996,77.6725,Other,43,Male,44,Blunt Object,Minor,Partly Cloudy,39,Vandalism
+21-04-2019,00:12:48,Forgery,Banashankari,12.8376,77.65,Other,38,Other,25,Blunt Object,Minor,Rain,19,Theft
+31-10-2019,15:49:53,Drug Offense,Yelahanka,12.9832,77.6672,Female,51,Male,37,Gun,Fatal,Overcast,38,Burglary
+26-11-2019,15:09:00,Drug Offense,Koramangala,13.0563,77.7265,Female,62,Male,19,Gun,Minor,Rain,17,Assault
+14-08-2020,19:37:39,Embezzlement,Marathahalli,13.0141,77.6943,Other,35,Male,58,Blunt Object,Fatal,Partly Cloudy,7,None
+20-03-2020,01:12:57,Fraud,Marathahalli,12.9133,77.4752,Other,19,Male,33,Knife,Major,Overcast,11,Robbery
+03-05-2020,07:05:19,Vandalism,Yelahanka,13.1756,77.6609,Female,57,Other,52,Gun,Major,Clear,13,Forgery
+01-12-2019,21:02:35,Assault,Koramangala,13.1935,77.4849,Male,28,Male,50,Gun,Fatal,Rain,10,Fraud
+30-08-2020,11:06:25,Burglary,JP Nagar,13.0964,77.5367,Other,23,Male,55,Blunt Object,Minor,Overcast,15,None
+08-03-2018,19:10:45,Vandalism,HSR Layout,12.8281,77.4505,Male,45,Male,43,Gun,Fatal,Clear,14,Theft
+23-04-2021,22:26:15,Fraud,Whitefield,13.0066,77.6129,Female,39,Male,19,Blunt Object,Fatal,Clear,17,Embezzlement
+23-02-2020,19:07:43,Burglary,HSR Layout,13.0052,77.5166,Male,28,Male,49,Blunt Object,Minor,Clear,38,Embezzlement
+07-09-2018,10:58:31,Vandalism,Whitefield,13.1119,77.7009,Female,19,Female,65,None,Fatal,Partly Cloudy,24,Embezzlement
+29-12-2021,12:48:23,Robbery,Electronic City,12.8975,77.7751,Female,23,Female,63,Knife,Minor,Partly Cloudy,3,Robbery
+20-12-2019,04:54:03,Embezzlement,Bellandur,12.8212,77.7149,Female,23,Other,23,Knife,Major,Clear,23,Burglary
+18-11-2021,19:40:37,Drug Offense,HSR Layout,12.8103,77.6181,Other,64,Male,20,Blunt Object,None,Rain,12,None
+29-08-2019,15:15:40,Forgery,Marathahalli,13.0987,77.7202,Male,44,Other,37,None,Major,Overcast,32,Robbery
+27-10-2019,08:27:51,Burglary,Whitefield,13.1376,77.7042,Male,40,Other,48,Knife,None,Partly Cloudy,1,Theft
+09-11-2019,03:38:19,Forgery,Indiranagar,12.8166,77.6327,Other,36,Other,57,Blunt Object,None,Partly Cloudy,36,Drug Offense
+15-11-2022,02:44:28,Vandalism,Electronic City,12.966,77.7511,Other,52,Other,44,Knife,Major,Overcast,37,Assault
+07-12-2020,19:59:28,Robbery,Jayanagar,12.9053,77.6466,Female,19,Male,40,Knife,Fatal,Partly Cloudy,1,Robbery
+11-08-2019,00:44:15,Vandalism,Bellandur,13.0354,77.7877,Other,43,Female,26,Knife,Minor,Snow,12,None
+14-09-2020,14:31:36,Robbery,Electronic City,13.0017,77.7784,Female,40,Male,27,Blunt Object,Minor,Partly Cloudy,18,Burglary
+11-02-2021,18:38:10,Assault,Marathahalli,12.9548,77.4778,Other,44,Other,22,Knife,None,Overcast,12,Vandalism
+22-12-2018,18:45:25,Theft,Yelahanka,12.8032,77.4727,Female,51,Female,63,Blunt Object,None,Rain,7,None
+03-07-2022,12:55:08,Burglary,JP Nagar,13.1374,77.6916,Female,59,Male,37,Gun,None,Partly Cloudy,3,Assault
+11-01-2021,13:21:17,Theft,Kamakshipalya,12.8204,77.485,Other,18,Female,41,None,Major,Overcast,28,Drug Offense
+25-09-2021,03:25:20,Vandalism,Koramangala,12.8064,77.5193,Other,56,Other,19,Knife,None,Rain,12,Embezzlement
+14-09-2021,12:59:45,Vandalism,Kamakshipalya,13.1859,77.6142,Female,57,Other,60,Blunt Object,Fatal,Partly Cloudy,1,Vandalism
+24-07-2021,11:39:58,Robbery,Marathahalli,13.1212,77.789,Female,25,Other,46,Blunt Object,Major,Partly Cloudy,23,Assault
+20-05-2021,07:16:07,Theft,Koramangala,12.8211,77.7675,Male,25,Female,39,Blunt Object,Major,Snow,20,Burglary
+26-06-2018,13:00:18,Embezzlement,Koramangala,13.1091,77.4742,Female,23,Male,49,Knife,Fatal,Rain,37,Drug Offense
+27-02-2018,02:26:33,Assault,Jayanagar,12.8568,77.5055,Other,32,Male,48,None,Major,Clear,17,Robbery
+10-07-2021,01:16:50,Burglary,JP Nagar,12.9534,77.7222,Male,18,Male,37,Knife,Major,Partly Cloudy,9,Fraud
+31-07-2019,14:55:28,Assault,HSR Layout,13.1134,77.7493,Male,21,Female,34,None,Fatal,Rain,40,None
+16-08-2019,05:59:51,Drug Offense,JP Nagar,12.9361,77.5259,Female,22,Male,38,Knife,Fatal,Clear,34,Forgery
+15-05-2018,22:34:26,Forgery,Bellandur,13.0334,77.5225,Other,63,Other,59,Gun,Major,Rain,0,Forgery
+02-09-2019,18:56:14,Robbery,Bellandur,12.9522,77.7851,Female,18,Other,60,Gun,Major,Overcast,40,Forgery
+25-01-2018,02:04:14,Vandalism,Bellandur,12.847,77.4851,Male,56,Other,37,Gun,Minor,Rain,8,Embezzlement
+30-06-2022,18:26:59,Embezzlement,Yelahanka,12.8245,77.5064,Other,38,Male,44,Gun,Minor,Clear,16,Theft
+25-02-2020,08:18:35,Robbery,HSR Layout,12.9541,77.7747,Female,47,Female,27,Gun,Minor,Snow,22,None
+08-09-2020,20:39:46,Forgery,Bellandur,12.9462,77.6399,Other,33,Other,19,None,Minor,Clear,37,Drug Offense
+14-04-2021,02:09:34,Assault,JP Nagar,13.1803,77.6623,Female,28,Other,25,None,None,Snow,12,Embezzlement
+24-12-2018,18:54:02,Robbery,Whitefield,12.8195,77.6976,Other,60,Other,61,None,Minor,Clear,8,Robbery
+30-01-2022,02:07:16,Robbery,Whitefield,12.9426,77.4991,Female,49,Other,33,Blunt Object,Major,Clear,6,Robbery
+28-08-2021,03:29:26,Forgery,Kamakshipalya,12.9836,77.6728,Female,26,Other,43,None,None,Rain,32,Burglary
+31-07-2022,12:37:21,Robbery,Kamakshipalya,12.8352,77.6719,Female,22,Other,26,Blunt Object,Fatal,Partly Cloudy,2,Assault
+08-01-2022,23:29:18,Vandalism,HSR Layout,12.8804,77.7989,Male,57,Female,54,Blunt Object,None,Rain,7,Embezzlement
+08-04-2020,03:55:13,Robbery,Bellandur,13.0548,77.4816,Male,32,Female,55,Blunt Object,Fatal,Overcast,27,Drug Offense
+01-08-2018,10:43:20,Theft,Banashankari,13.0597,77.7455,Male,49,Male,25,Blunt Object,Fatal,Rain,38,Assault
+07-04-2022,06:23:50,Forgery,Marathahalli,13.0534,77.5031,Other,33,Male,61,Gun,Major,Partly Cloudy,1,Embezzlement
+29-08-2021,22:42:54,Fraud,Yelahanka,12.9242,77.5877,Male,63,Male,44,None,Major,Clear,10,Vandalism
+13-06-2020,10:52:25,Forgery,JP Nagar,13.1222,77.4065,Male,45,Male,29,Blunt Object,Major,Clear,25,Drug Offense
+05-09-2021,12:41:42,Theft,Kamakshipalya,12.8547,77.5855,Female,41,Female,42,Knife,Fatal,Snow,3,Theft
+07-04-2022,20:06:44,Robbery,Koramangala,13.0297,77.46,Female,21,Male,38,Gun,Major,Clear,33,Theft
+26-08-2019,20:39:45,Theft,Yelahanka,13.1738,77.4206,Female,23,Male,39,Gun,Minor,Partly Cloudy,22,None
+27-01-2019,19:55:08,Forgery,HSR Layout,13.1486,77.598,Other,53,Male,34,Blunt Object,Minor,Partly Cloudy,13,Robbery
+12-01-2021,02:08:15,Robbery,HSR Layout,12.9724,77.7325,Male,48,Female,34,Knife,Fatal,Rain,28,Burglary
+01-01-2019,04:08:34,Vandalism,Bellandur,13.0188,77.7064,Female,40,Other,38,Blunt Object,Fatal,Clear,0,Theft
+06-02-2019,05:44:42,Robbery,Bellandur,12.8626,77.5488,Female,43,Other,22,Blunt Object,Fatal,Snow,31,None
+31-07-2018,21:06:10,Forgery,Jayanagar,13.1969,77.7857,Female,53,Other,26,Knife,Major,Rain,32,Theft
+14-09-2018,02:47:52,Burglary,Bellandur,13.1039,77.5495,Other,61,Female,44,Knife,None,Rain,24,Theft
+23-03-2021,19:50:32,Fraud,Yelahanka,13.0149,77.5879,Female,21,Other,42,Gun,Major,Snow,26,Theft
+29-01-2021,14:06:18,Embezzlement,JP Nagar,13.0522,77.5435,Female,55,Other,20,Gun,Minor,Rain,31,Vandalism
+28-11-2020,02:25:06,Assault,Banashankari,13.1844,77.783,Other,56,Female,29,None,Minor,Clear,32,Drug Offense
+22-12-2022,08:26:58,Embezzlement,Banashankari,12.932,77.5055,Other,58,Other,44,None,Minor,Clear,2,Robbery
+20-04-2022,23:47:47,Assault,Jayanagar,13.0472,77.6742,Female,30,Other,30,None,Fatal,Snow,9,Forgery
+25-12-2018,01:28:14,Robbery,Indiranagar,13.1986,77.5244,Male,30,Male,24,Blunt Object,Fatal,Snow,4,Robbery
+29-10-2021,14:38:25,Assault,Banashankari,12.9282,77.7874,Other,18,Male,57,Gun,Fatal,Rain,33,Embezzlement
+25-12-2020,09:46:33,Burglary,Koramangala,12.9515,77.5095,Female,44,Female,44,Gun,None,Rain,24,Fraud
+05-05-2021,05:56:06,Theft,HSR Layout,13.1209,77.6698,Other,22,Female,49,Knife,Major,Overcast,1,Forgery
+12-06-2021,23:59:34,Forgery,Bellandur,12.8681,77.7639,Female,64,Other,22,None,Major,Overcast,6,Embezzlement
+18-01-2021,02:28:05,Theft,Bellandur,12.9694,77.7201,Female,52,Female,54,Blunt Object,Fatal,Partly Cloudy,18,Burglary
+18-05-2022,17:40:51,Theft,Indiranagar,13.0926,77.5913,Male,48,Other,53,Knife,Minor,Partly Cloudy,6,Robbery
+26-03-2020,01:47:58,Theft,Banashankari,13.0992,77.6557,Male,31,Male,43,Blunt Object,None,Clear,13,Forgery
+08-04-2019,13:50:36,Robbery,JP Nagar,13.112,77.7307,Other,56,Female,57,Gun,Major,Overcast,9,Assault
+22-08-2022,04:49:45,Drug Offense,Jayanagar,13.1098,77.5241,Other,41,Other,43,Gun,Fatal,Clear,22,Forgery
+08-12-2020,21:16:01,Forgery,Koramangala,13.0683,77.6536,Other,54,Other,46,None,Minor,Overcast,20,Theft
+07-05-2020,09:48:55,Assault,Jayanagar,12.8687,77.6791,Male,50,Male,63,None,Major,Clear,38,Burglary
+25-09-2020,11:12:45,Robbery,HSR Layout,12.8665,77.634,Female,41,Male,38,Blunt Object,Major,Overcast,7,Vandalism
+27-05-2020,15:42:49,Forgery,Banashankari,13.1799,77.5987,Male,62,Female,32,Blunt Object,Minor,Partly Cloudy,10,Embezzlement
+25-07-2018,22:49:20,Burglary,JP Nagar,12.8923,77.5961,Female,46,Other,46,Gun,Minor,Snow,5,Assault
+09-06-2018,20:39:15,Theft,Koramangala,12.8146,77.4405,Female,38,Female,59,Gun,Minor,Partly Cloudy,13,Fraud
+21-06-2019,05:37:22,Drug Offense,Jayanagar,12.8674,77.5376,Female,39,Other,41,Gun,Minor,Partly Cloudy,19,Theft
+14-10-2021,23:17:21,Embezzlement,Bellandur,12.965,77.529,Female,36,Male,44,Knife,Major,Overcast,27,Drug Offense
+21-09-2021,18:52:54,Forgery,Jayanagar,13.1381,77.5337,Other,49,Female,50,Knife,Fatal,Snow,26,Theft
+19-03-2022,07:52:57,Burglary,Koramangala,12.8762,77.6667,Female,19,Other,61,Blunt Object,Fatal,Snow,36,Robbery
+14-07-2018,00:37:35,Embezzlement,Kamakshipalya,13.0991,77.7271,Other,57,Female,22,Knife,Fatal,Rain,26,Robbery
+20-10-2022,22:19:40,Drug Offense,Banashankari,13.0249,77.7085,Female,46,Other,37,Gun,Fatal,Clear,40,Embezzlement
+10-07-2019,04:04:54,Embezzlement,Marathahalli,12.9963,77.4481,Other,56,Male,34,Knife,Major,Overcast,32,Fraud
+01-04-2022,17:13:23,Robbery,HSR Layout,12.9318,77.6803,Other,22,Female,35,Blunt Object,Major,Snow,16,Forgery
+07-12-2022,09:09:38,Embezzlement,Indiranagar,13.1835,77.5327,Female,45,Other,44,None,Fatal,Overcast,15,Burglary
+18-12-2022,10:44:04,Embezzlement,JP Nagar,12.9818,77.7796,Male,35,Other,36,Blunt Object,None,Rain,17,Vandalism
+28-10-2021,23:37:54,Fraud,Jayanagar,12.8841,77.6165,Female,30,Female,37,Knife,None,Snow,32,Vandalism
+09-09-2022,21:44:29,Vandalism,HSR Layout,13.1417,77.6102,Male,64,Other,33,Gun,None,Snow,37,Drug Offense
+25-10-2018,10:42:26,Robbery,Banashankari,13.1632,77.693,Female,26,Male,25,None,Minor,Overcast,25,Assault
+19-03-2019,17:58:20,Theft,Yelahanka,13.0427,77.5806,Female,42,Female,31,None,None,Rain,26,Embezzlement
+10-06-2018,18:07:37,Fraud,Marathahalli,13.1744,77.7878,Female,44,Male,47,Blunt Object,Minor,Rain,37,Forgery
+29-03-2020,19:54:05,Robbery,JP Nagar,13.0807,77.4282,Female,20,Male,45,Gun,None,Rain,10,None
+11-01-2019,11:27:15,Robbery,Bellandur,12.8214,77.5579,Female,44,Female,25,Knife,None,Partly Cloudy,11,Theft
+20-03-2021,21:21:47,Theft,JP Nagar,12.9583,77.7733,Female,53,Other,44,Gun,Minor,Clear,17,Theft
+11-06-2022,13:33:46,Assault,Koramangala,13.0462,77.6042,Male,47,Female,35,Knife,Fatal,Clear,38,Theft
+06-02-2021,01:14:49,Burglary,Banashankari,13.03,77.7078,Other,57,Male,42,Blunt Object,None,Clear,3,Forgery
+22-04-2021,00:47:23,Theft,Kamakshipalya,13.1169,77.6196,Other,21,Male,32,None,Major,Partly Cloudy,38,Robbery
+16-09-2021,11:41:06,Robbery,Marathahalli,13.0151,77.5323,Other,47,Male,44,None,None,Rain,35,Burglary
+20-11-2022,13:23:16,Forgery,Indiranagar,12.9479,77.5304,Other,62,Female,31,Knife,Minor,Overcast,5,Robbery
+21-06-2021,10:07:11,Drug Offense,Electronic City,13.0986,77.6343,Male,20,Other,46,Gun,Minor,Rain,14,Embezzlement
+18-12-2022,00:59:52,Burglary,Whitefield,13.0261,77.561,Other,27,Other,55,Gun,Fatal,Rain,16,Robbery
+02-12-2018,04:54:27,Embezzlement,Indiranagar,12.8946,77.6105,Other,22,Male,46,Blunt Object,Minor,Clear,35,Fraud
+21-11-2022,07:54:43,Drug Offense,Bellandur,13.0482,77.6805,Male,58,Female,33,Blunt Object,None,Rain,16,Vandalism
+08-12-2022,03:02:13,Vandalism,Yelahanka,12.8791,77.7819,Other,24,Male,50,Blunt Object,None,Snow,33,Robbery
+15-05-2022,12:50:32,Burglary,HSR Layout,12.9153,77.5046,Female,62,Female,46,Blunt Object,Minor,Clear,21,None
+19-08-2019,20:14:14,Robbery,Yelahanka,12.9268,77.7757,Male,43,Female,48,Blunt Object,Major,Clear,14,Assault
+26-10-2019,21:16:17,Assault,Kamakshipalya,13.1968,77.7486,Other,27,Male,52,Blunt Object,Minor,Clear,22,Forgery
+16-09-2020,02:20:48,Fraud,Indiranagar,13.074,77.5865,Male,64,Male,56,Blunt Object,Major,Partly Cloudy,24,None
+14-06-2019,13:52:33,Robbery,Kamakshipalya,12.9214,77.7276,Female,51,Female,47,Blunt Object,Major,Partly Cloudy,4,Robbery
+09-09-2021,10:35:41,Drug Offense,Jayanagar,13.0381,77.7566,Female,61,Other,61,Knife,Fatal,Rain,17,Burglary
+08-09-2018,16:09:48,Assault,Bellandur,12.8832,77.4821,Male,25,Female,40,Knife,Major,Rain,21,Fraud
+10-12-2019,08:33:21,Embezzlement,Indiranagar,12.9111,77.537,Male,49,Other,18,Blunt Object,Minor,Partly Cloudy,10,Robbery
+23-09-2020,11:53:44,Assault,Indiranagar,12.94,77.6017,Male,49,Male,45,Blunt Object,Fatal,Snow,14,Drug Offense
+05-10-2020,20:06:30,Drug Offense,Banashankari,12.9851,77.4231,Female,30,Male,21,Blunt Object,Fatal,Overcast,4,Robbery
+28-06-2020,02:44:52,Burglary,Bellandur,13.0265,77.4502,Female,31,Male,48,Gun,Fatal,Clear,24,Theft
+23-11-2020,12:31:01,Forgery,HSR Layout,12.8704,77.7206,Male,62,Male,31,Gun,Minor,Rain,37,Embezzlement
+05-02-2018,14:38:08,Vandalism,HSR Layout,13.0538,77.4278,Other,59,Female,60,Blunt Object,Major,Rain,24,Vandalism
+25-07-2021,05:14:35,Theft,Banashankari,13.1922,77.7902,Female,59,Other,54,Blunt Object,None,Partly Cloudy,29,Burglary
+02-07-2021,22:57:21,Assault,Marathahalli,13.0877,77.7806,Other,27,Other,18,Blunt Object,Fatal,Overcast,20,Fraud
+18-08-2019,07:34:54,Fraud,HSR Layout,12.947,77.4025,Male,54,Other,26,Gun,Minor,Clear,32,Theft
+30-11-2021,20:09:38,Vandalism,JP Nagar,12.9765,77.6116,Female,56,Other,54,None,Major,Clear,9,Embezzlement
+13-09-2018,14:01:48,Burglary,Bellandur,13.0201,77.5279,Other,48,Other,34,Gun,None,Clear,30,None
+01-06-2018,13:28:02,Drug Offense,HSR Layout,13.0305,77.6699,Male,62,Male,29,Blunt Object,Major,Partly Cloudy,12,Assault
+20-10-2020,17:49:19,Drug Offense,Kamakshipalya,12.9373,77.541,Male,26,Other,18,Blunt Object,Fatal,Overcast,13,Burglary
+25-02-2018,10:48:10,Robbery,Banashankari,13.1848,77.4649,Male,60,Male,53,Knife,Major,Overcast,25,Assault
+24-12-2021,05:16:30,Forgery,Whitefield,13.128,77.5213,Female,57,Male,25,Gun,Minor,Snow,7,Drug Offense
+15-06-2021,14:07:15,Fraud,Kamakshipalya,12.8037,77.5516,Female,26,Other,22,Blunt Object,Major,Snow,18,Vandalism
+11-09-2020,19:15:38,Forgery,JP Nagar,13.052,77.4947,Other,56,Other,39,Knife,Major,Partly Cloudy,39,Robbery
+01-07-2020,18:49:09,Burglary,Banashankari,12.9721,77.6199,Other,38,Other,58,Blunt Object,None,Clear,1,None
+24-12-2022,22:39:53,Burglary,Yelahanka,12.9136,77.4407,Male,55,Other,20,Gun,None,Clear,24,Vandalism
+01-01-2022,19:15:45,Burglary,Whitefield,13.0714,77.7267,Female,61,Male,43,Knife,None,Rain,4,Burglary
+21-08-2019,09:57:46,Burglary,Kamakshipalya,13.048,77.645,Female,21,Female,38,Gun,Major,Overcast,6,Robbery
+07-07-2020,14:55:31,Robbery,Koramangala,13.1476,77.5653,Other,39,Male,55,Gun,Major,Overcast,34,Fraud
+23-11-2019,05:32:10,Drug Offense,Marathahalli,12.9904,77.7357,Other,41,Male,55,None,Minor,Rain,0,Fraud
+19-09-2018,22:32:32,Burglary,Marathahalli,12.927,77.4393,Female,43,Other,27,Blunt Object,Fatal,Partly Cloudy,30,Robbery
+02-02-2022,11:35:03,Robbery,Jayanagar,13.0578,77.5606,Female,50,Male,36,Blunt Object,None,Snow,18,Forgery
+17-11-2020,06:42:58,Burglary,Banashankari,12.9821,77.4161,Male,46,Male,62,Knife,Fatal,Clear,36,Theft
+21-11-2019,02:23:48,Burglary,JP Nagar,13.1262,77.6156,Female,25,Female,20,Knife,None,Rain,6,Burglary
+03-06-2018,04:36:02,Burglary,Indiranagar,13.0477,77.6649,Male,53,Male,25,Knife,Major,Partly Cloudy,24,None
+06-03-2020,18:51:44,Forgery,Koramangala,13.0675,77.74,Male,22,Other,50,Knife,Fatal,Snow,8,Fraud
+01-03-2020,01:38:42,Assault,Kamakshipalya,12.9604,77.6718,Other,57,Male,26,Knife,None,Snow,35,Forgery
+18-09-2020,15:36:48,Drug Offense,Whitefield,12.8933,77.6446,Other,50,Female,29,Knife,Minor,Overcast,27,Vandalism
+01-02-2020,20:07:16,Drug Offense,JP Nagar,13.0892,77.7104,Other,60,Male,32,None,Minor,Overcast,15,Forgery
+04-01-2019,14:52:20,Drug Offense,JP Nagar,12.8872,77.4376,Female,47,Other,38,Gun,Minor,Rain,25,Fraud
+07-03-2019,20:27:14,Assault,Electronic City,12.9814,77.6088,Male,35,Female,44,Blunt Object,Major,Overcast,0,Burglary
+13-05-2018,23:22:52,Theft,Marathahalli,12.8203,77.5751,Male,39,Other,49,Knife,Major,Clear,26,Assault
+18-12-2019,22:17:50,Theft,Jayanagar,12.8268,77.5713,Other,32,Female,54,None,Minor,Overcast,17,Assault
+16-05-2018,11:32:26,Robbery,Banashankari,12.938,77.6856,Female,53,Female,20,Gun,Minor,Rain,31,Assault
+20-09-2020,20:16:42,Burglary,Bellandur,13.0309,77.6551,Other,19,Female,59,Knife,Major,Partly Cloudy,16,Robbery
+17-10-2019,08:44:39,Vandalism,Kamakshipalya,12.9522,77.6612,Male,27,Other,22,Knife,None,Clear,34,Forgery
+26-07-2020,13:37:05,Assault,JP Nagar,12.8812,77.527,Other,22,Male,35,Knife,Minor,Rain,3,Drug Offense
+28-03-2018,14:50:57,Embezzlement,Whitefield,13.0607,77.489,Male,28,Female,55,Blunt Object,Fatal,Snow,20,Fraud
+25-04-2018,02:02:48,Robbery,Jayanagar,12.9266,77.6102,Other,54,Female,43,Blunt Object,Major,Overcast,31,Drug Offense
+03-02-2022,21:39:18,Assault,Kamakshipalya,13.0701,77.4257,Other,22,Female,50,Blunt Object,Minor,Partly Cloudy,9,Vandalism
+21-05-2022,19:11:44,Embezzlement,Banashankari,12.9565,77.5443,Male,41,Female,55,Gun,Minor,Partly Cloudy,18,Robbery
+24-11-2022,10:10:00,Drug Offense,Kamakshipalya,12.9285,77.4281,Male,18,Male,51,Blunt Object,None,Partly Cloudy,15,None
+22-02-2018,16:27:27,Burglary,Marathahalli,13.1849,77.5337,Female,35,Female,22,Knife,Major,Rain,35,Drug Offense
+03-11-2021,21:04:23,Drug Offense,Bellandur,12.8892,77.6551,Male,53,Male,25,Gun,Fatal,Snow,12,Burglary
+04-01-2022,13:27:30,Robbery,Bellandur,13.0839,77.4747,Other,57,Female,21,None,None,Clear,28,Embezzlement
+25-06-2018,17:03:52,Burglary,Electronic City,12.8961,77.4394,Male,30,Male,19,Gun,Major,Partly Cloudy,33,Vandalism
+01-02-2021,03:20:26,Theft,Koramangala,12.8914,77.572,Other,65,Female,57,Knife,None,Rain,27,None
+10-02-2019,06:43:04,Forgery,Jayanagar,12.963,77.6061,Other,51,Female,40,Blunt Object,Major,Partly Cloudy,2,Assault
+07-10-2018,10:52:17,Assault,Whitefield,12.9443,77.6555,Other,50,Female,18,Knife,Minor,Overcast,11,Theft
+25-04-2021,23:20:31,Burglary,Indiranagar,12.9145,77.5225,Other,63,Male,32,None,Major,Rain,34,Fraud
+02-02-2019,00:27:53,Embezzlement,JP Nagar,12.9528,77.4387,Female,30,Other,24,Gun,None,Clear,35,Drug Offense
+05-03-2021,21:05:12,Embezzlement,HSR Layout,13.1184,77.5801,Male,61,Female,64,Knife,Fatal,Overcast,26,Drug Offense
+29-03-2019,20:05:39,Vandalism,Kamakshipalya,13.0567,77.4539,Female,39,Female,29,None,Fatal,Snow,17,None
+05-02-2022,05:26:27,Assault,Banashankari,13.0967,77.4251,Other,44,Male,31,None,None,Partly Cloudy,35,Embezzlement
+31-08-2022,04:32:49,Theft,Indiranagar,13.0828,77.7176,Female,49,Other,50,None,None,Snow,3,Drug Offense
+09-02-2019,02:35:55,Burglary,Whitefield,13.0882,77.7422,Other,22,Other,60,Knife,None,Partly Cloudy,7,Burglary
+30-08-2019,16:37:36,Drug Offense,Bellandur,13.0569,77.6341,Male,29,Female,52,None,Major,Clear,26,Burglary
+06-12-2021,08:52:12,Theft,Electronic City,13.1848,77.7966,Male,26,Male,24,None,Minor,Overcast,28,Vandalism
+02-11-2021,12:31:19,Theft,Marathahalli,13.0062,77.6789,Male,26,Other,22,None,Major,Rain,6,Robbery
+20-10-2020,11:32:46,Robbery,Kamakshipalya,13.0088,77.6205,Male,26,Female,53,Knife,Major,Partly Cloudy,23,Burglary
+31-10-2019,08:35:04,Fraud,HSR Layout,12.9757,77.5611,Female,38,Male,35,Gun,Major,Rain,25,Burglary
+21-10-2021,03:55:26,Burglary,Whitefield,13.1437,77.6316,Other,43,Female,34,Blunt Object,None,Rain,16,Fraud
+17-02-2020,18:30:36,Drug Offense,Koramangala,12.9113,77.7924,Female,19,Other,22,Gun,Major,Clear,17,Forgery
+23-05-2018,12:03:38,Fraud,Indiranagar,13.0767,77.7755,Other,38,Other,62,Gun,Major,Rain,20,Robbery
+14-11-2021,10:51:33,Drug Offense,Indiranagar,12.8903,77.5896,Other,37,Male,33,None,Fatal,Clear,32,Embezzlement
+07-11-2021,10:40:44,Drug Offense,Marathahalli,12.9894,77.7894,Female,21,Other,38,None,None,Rain,20,Robbery
+24-12-2020,15:36:21,Burglary,Bellandur,13.0309,77.4183,Female,57,Other,34,Blunt Object,None,Clear,18,Burglary
+27-11-2021,19:31:03,Embezzlement,Electronic City,12.8848,77.6297,Male,43,Female,64,Blunt Object,Major,Snow,6,Theft
+23-05-2019,16:16:57,Theft,HSR Layout,13.0461,77.5716,Other,47,Female,60,Gun,Major,Snow,7,Forgery
+23-08-2022,14:27:09,Embezzlement,Yelahanka,12.9349,77.4558,Male,26,Female,50,Blunt Object,Fatal,Rain,28,Forgery
+25-06-2021,10:43:05,Drug Offense,Kamakshipalya,13.1527,77.6253,Male,51,Other,65,Gun,None,Clear,22,Drug Offense
+29-10-2022,02:47:00,Embezzlement,Kamakshipalya,13.0722,77.6629,Male,24,Male,20,Gun,None,Clear,26,Burglary
+23-04-2021,12:52:49,Fraud,Banashankari,12.8721,77.67,Other,55,Female,58,Gun,Major,Partly Cloudy,40,Drug Offense
+25-01-2021,13:59:30,Vandalism,Electronic City,12.9954,77.4019,Female,55,Female,50,None,Minor,Partly Cloudy,27,Vandalism
+03-10-2021,08:13:43,Fraud,Electronic City,12.9511,77.615,Other,36,Male,37,Gun,Major,Rain,29,Vandalism
+22-04-2021,12:44:58,Robbery,Banashankari,12.9612,77.7822,Other,19,Female,58,Blunt Object,None,Snow,33,Embezzlement
+05-02-2019,17:24:48,Forgery,Banashankari,12.9065,77.5797,Other,50,Other,18,Knife,Fatal,Rain,24,Assault
+28-10-2022,05:23:12,Vandalism,HSR Layout,12.926,77.4755,Other,33,Female,65,None,Minor,Snow,6,Drug Offense
+08-11-2018,21:24:00,Vandalism,HSR Layout,12.9089,77.7148,Other,24,Other,44,Blunt Object,Minor,Partly Cloudy,38,Vandalism
+17-02-2022,05:24:44,Theft,Jayanagar,12.835,77.4751,Other,41,Other,42,Blunt Object,Fatal,Rain,16,Forgery
+04-07-2022,13:55:49,Embezzlement,Whitefield,12.8351,77.6127,Female,31,Male,29,Blunt Object,None,Rain,19,Burglary
+28-10-2019,21:12:36,Theft,Yelahanka,12.9146,77.5517,Other,19,Other,45,Knife,Minor,Overcast,11,Vandalism
+30-06-2018,01:13:46,Theft,Indiranagar,13.0496,77.7217,Other,61,Other,38,Gun,Minor,Rain,21,Theft
+04-10-2018,23:16:53,Embezzlement,Indiranagar,12.9923,77.4259,Male,58,Female,63,Gun,None,Rain,27,Forgery
+01-04-2020,11:11:07,Fraud,Indiranagar,12.9411,77.6733,Other,36,Female,61,Knife,None,Partly Cloudy,10,Drug Offense
+10-10-2021,09:21:20,Vandalism,Koramangala,12.9893,77.4586,Other,49,Other,33,None,Minor,Overcast,30,Vandalism
+25-03-2019,18:25:43,Burglary,Electronic City,12.913,77.6885,Female,28,Other,46,None,Fatal,Partly Cloudy,22,Drug Offense
+04-06-2021,00:00:54,Assault,Electronic City,12.9648,77.7713,Male,44,Female,45,Knife,Minor,Snow,13,Burglary
+14-05-2018,18:31:07,Assault,Indiranagar,13.1603,77.4424,Other,62,Male,48,Blunt Object,Major,Partly Cloudy,40,Embezzlement
+11-04-2022,12:34:41,Fraud,Jayanagar,13.0851,77.5787,Other,31,Other,49,Blunt Object,Minor,Overcast,25,Assault
+03-04-2022,08:12:11,Robbery,Bellandur,12.8936,77.7214,Other,23,Other,50,Gun,Minor,Snow,38,None
+11-06-2020,22:02:34,Theft,Marathahalli,13.0038,77.4541,Female,65,Other,47,None,Fatal,Rain,33,Vandalism
+06-07-2018,17:54:27,Burglary,HSR Layout,12.9021,77.5534,Other,63,Other,49,None,Major,Partly Cloudy,16,Embezzlement
+09-06-2020,11:01:23,Forgery,HSR Layout,13.1668,77.5956,Male,39,Other,23,Gun,None,Snow,30,Forgery
+17-07-2022,11:59:37,Theft,Jayanagar,12.8928,77.6047,Male,38,Other,47,None,Fatal,Partly Cloudy,25,Vandalism
+29-08-2021,14:39:07,Theft,JP Nagar,13.1525,77.6099,Female,49,Female,56,Blunt Object,Fatal,Overcast,1,Vandalism
+02-03-2020,14:19:33,Burglary,Yelahanka,13.0248,77.6663,Other,18,Other,48,Blunt Object,Minor,Overcast,34,Vandalism
+09-08-2018,22:04:48,Fraud,Yelahanka,12.8401,77.5986,Other,24,Male,61,None,Minor,Overcast,5,Robbery
+22-09-2019,11:37:04,Vandalism,Jayanagar,13.1796,77.7291,Other,56,Other,34,Knife,Fatal,Overcast,8,Theft
+23-11-2019,23:35:26,Embezzlement,Bellandur,12.8298,77.6158,Male,64,Female,53,Knife,None,Partly Cloudy,4,None
+10-11-2018,18:23:57,Embezzlement,Jayanagar,13.0279,77.4019,Other,60,Female,23,Gun,Major,Clear,29,None
+31-05-2020,00:43:07,Robbery,Yelahanka,13.1904,77.5479,Other,42,Other,51,Knife,Fatal,Partly Cloudy,2,Drug Offense
+11-12-2020,07:11:17,Robbery,Banashankari,13.1725,77.4253,Female,23,Male,18,Blunt Object,Minor,Clear,21,Robbery
+28-03-2021,05:27:21,Assault,Banashankari,13.0224,77.5672,Other,61,Male,49,Gun,None,Partly Cloudy,11,Forgery
+08-02-2019,14:10:08,Fraud,Electronic City,12.8686,77.7193,Male,40,Male,28,Blunt Object,Minor,Overcast,2,Embezzlement
+21-02-2021,22:20:57,Robbery,JP Nagar,12.9778,77.6788,Other,35,Female,41,Gun,Fatal,Overcast,34,Fraud
+20-10-2018,13:35:31,Theft,Indiranagar,12.8725,77.668,Male,43,Other,62,None,Major,Partly Cloudy,38,Robbery
+14-04-2019,02:35:47,Embezzlement,Kamakshipalya,13.0207,77.4096,Female,31,Male,44,Blunt Object,None,Overcast,9,Theft
+22-05-2020,18:55:46,Theft,Marathahalli,12.8348,77.4334,Female,18,Other,43,Knife,Fatal,Snow,37,Embezzlement
+16-03-2018,06:05:59,Vandalism,Yelahanka,12.9799,77.7251,Female,24,Other,28,None,Fatal,Partly Cloudy,12,Fraud
+08-02-2020,01:23:47,Assault,Jayanagar,12.9633,77.6618,Other,57,Other,37,Gun,Minor,Snow,38,Fraud
+12-11-2019,13:28:44,Theft,Indiranagar,12.863,77.5116,Other,28,Other,27,Blunt Object,Fatal,Partly Cloudy,25,Theft
+04-11-2018,01:15:45,Fraud,Jayanagar,12.8668,77.6841,Male,60,Male,20,Knife,Fatal,Overcast,29,Robbery
+05-12-2018,01:08:24,Fraud,Kamakshipalya,13.1831,77.5286,Male,37,Other,32,Blunt Object,None,Overcast,4,Vandalism
+15-10-2022,09:45:43,Forgery,JP Nagar,13.1316,77.4499,Male,45,Other,59,None,Minor,Clear,38,Drug Offense
+14-08-2021,11:38:01,Forgery,JP Nagar,13.0676,77.6405,Other,20,Other,21,Gun,Fatal,Partly Cloudy,20,None
+25-10-2021,02:26:59,Assault,Jayanagar,13.1769,77.469,Other,34,Female,55,Knife,None,Rain,31,Theft
+14-11-2019,18:54:49,Theft,Jayanagar,12.9436,77.5445,Other,55,Male,62,Knife,Fatal,Overcast,14,Assault
+20-07-2021,15:14:31,Burglary,Kamakshipalya,12.8043,77.5893,Other,42,Male,23,None,None,Partly Cloudy,18,Drug Offense
+28-12-2020,04:55:13,Embezzlement,Koramangala,13.0705,77.7679,Other,57,Female,36,None,None,Clear,31,Burglary
+12-04-2019,03:11:41,Assault,HSR Layout,12.8029,77.6369,Female,40,Other,65,None,Minor,Clear,5,Theft
+25-10-2019,06:33:29,Embezzlement,Electronic City,13.0139,77.4044,Other,30,Female,63,Blunt Object,Major,Partly Cloudy,23,Vandalism
+16-04-2020,20:31:44,Fraud,Jayanagar,13.1362,77.6022,Other,27,Other,37,None,None,Clear,38,Vandalism
+16-08-2021,13:43:07,Burglary,Indiranagar,12.9962,77.6809,Female,39,Female,25,Gun,None,Overcast,3,Burglary
+01-03-2021,13:59:25,Robbery,Yelahanka,12.8389,77.5079,Other,58,Male,27,Blunt Object,Major,Overcast,15,Robbery
+12-10-2022,14:33:30,Embezzlement,JP Nagar,13.0267,77.4344,Male,36,Other,65,Knife,Minor,Overcast,8,Drug Offense
+11-04-2020,19:03:17,Vandalism,Electronic City,12.879,77.766,Male,22,Other,61,Knife,None,Rain,3,Burglary
+21-02-2019,00:47:38,Vandalism,Bellandur,13.1532,77.4497,Other,24,Female,31,None,Major,Snow,37,Robbery
+13-06-2021,16:16:51,Embezzlement,Indiranagar,13.069,77.4282,Other,65,Other,21,None,None,Snow,33,Assault
+23-11-2021,19:22:07,Drug Offense,Koramangala,13.001,77.7295,Other,31,Other,23,None,Minor,Snow,5,Burglary
+23-12-2020,00:31:10,Assault,Electronic City,13.0297,77.5066,Male,36,Female,21,Gun,None,Snow,8,Robbery
+20-06-2022,23:54:28,Vandalism,Marathahalli,12.8145,77.6415,Female,53,Female,65,Gun,Major,Rain,1,Assault
+08-03-2020,19:58:42,Assault,Whitefield,13.1571,77.7177,Male,65,Female,24,Gun,None,Overcast,16,Embezzlement
+16-05-2018,05:47:59,Burglary,Kamakshipalya,13.0804,77.6352,Other,62,Female,18,None,Fatal,Rain,25,Theft
+29-03-2020,19:20:28,Drug Offense,Kamakshipalya,13.0066,77.6261,Other,42,Other,37,Blunt Object,Fatal,Clear,35,None
+21-01-2020,04:42:32,Drug Offense,Bellandur,12.8575,77.5136,Other,37,Female,58,Knife,Fatal,Overcast,31,Assault
+03-11-2018,09:10:13,Robbery,Koramangala,13.0785,77.7524,Male,56,Other,34,Knife,Fatal,Snow,12,Embezzlement
+30-08-2020,07:00:18,Vandalism,Indiranagar,12.9316,77.714,Other,63,Female,26,Blunt Object,None,Overcast,6,Forgery
+29-06-2021,14:24:55,Drug Offense,HSR Layout,13.0874,77.4076,Male,49,Female,56,Gun,None,Overcast,0,Assault
+08-04-2021,21:10:22,Drug Offense,Bellandur,12.8259,77.5249,Other,32,Female,62,Blunt Object,Minor,Rain,18,Burglary
+06-08-2020,03:16:18,Forgery,HSR Layout,12.994,77.4862,Female,27,Male,49,Knife,None,Partly Cloudy,1,None
+27-11-2020,17:57:55,Embezzlement,JP Nagar,12.9659,77.6698,Male,53,Female,53,Knife,Fatal,Partly Cloudy,21,Vandalism
+08-01-2019,03:32:10,Drug Offense,HSR Layout,13.1302,77.4145,Other,32,Male,33,Knife,Fatal,Snow,5,Burglary
+22-02-2020,05:25:47,Theft,Indiranagar,12.809,77.6621,Male,65,Female,52,Blunt Object,Major,Partly Cloudy,3,Burglary
+11-03-2018,04:13:16,Burglary,Jayanagar,13.1701,77.5383,Male,47,Male,30,Gun,Fatal,Clear,14,None
+03-06-2021,03:15:59,Theft,Koramangala,12.8195,77.6903,Male,32,Other,62,Blunt Object,Minor,Snow,6,Drug Offense
+15-05-2021,02:55:42,Drug Offense,Indiranagar,13.0039,77.4404,Female,60,Female,23,Knife,None,Overcast,23,Theft
+04-01-2019,10:43:05,Fraud,HSR Layout,12.9021,77.4594,Female,55,Other,25,Blunt Object,Fatal,Rain,38,Forgery
+12-04-2019,02:03:13,Theft,Electronic City,13.1585,77.6553,Female,65,Female,55,Blunt Object,None,Snow,14,Assault
+06-06-2018,01:29:22,Forgery,Bellandur,13.1427,77.7753,Male,41,Other,63,None,Major,Rain,17,None
+07-01-2021,13:15:22,Forgery,Marathahalli,13.1041,77.4316,Female,64,Other,46,Knife,Major,Partly Cloudy,35,Drug Offense
+31-10-2022,07:01:16,Embezzlement,JP Nagar,13.0972,77.425,Male,29,Female,38,Gun,Major,Snow,0,Drug Offense
+03-04-2021,12:57:12,Embezzlement,HSR Layout,12.8066,77.6194,Other,24,Male,44,None,Major,Clear,32,Robbery
+16-04-2020,15:37:06,Vandalism,Whitefield,13.1479,77.561,Other,22,Other,46,Gun,Major,Rain,28,Robbery
+02-07-2018,04:34:06,Robbery,Koramangala,12.8308,77.4315,Other,59,Other,38,None,Minor,Clear,9,Assault
+08-10-2018,08:08:41,Embezzlement,Kamakshipalya,13.0539,77.4617,Female,44,Female,31,Knife,None,Snow,20,Burglary
+04-09-2021,11:16:05,Fraud,HSR Layout,13.1465,77.737,Male,52,Female,32,Knife,Fatal,Overcast,30,Drug Offense
+22-06-2018,09:47:07,Embezzlement,Banashankari,12.8076,77.7322,Male,44,Male,18,Gun,Fatal,Overcast,8,Theft
+29-07-2021,17:53:14,Fraud,Banashankari,12.8644,77.712,Male,36,Male,65,Knife,Fatal,Partly Cloudy,33,Drug Offense
+29-06-2021,00:52:29,Burglary,Electronic City,12.8956,77.6498,Other,29,Male,42,Knife,None,Rain,8,Burglary
+24-06-2019,00:32:20,Assault,Bellandur,13.0283,77.633,Other,21,Male,38,None,Fatal,Partly Cloudy,34,Fraud
+18-01-2018,09:59:03,Burglary,Koramangala,13.1838,77.4557,Female,40,Female,26,Gun,Minor,Rain,35,Forgery
+20-01-2018,13:21:27,Robbery,Jayanagar,13.1182,77.5066,Other,31,Female,55,None,None,Rain,27,Vandalism
+21-01-2018,06:41:23,Robbery,Yelahanka,13.1536,77.6185,Male,55,Female,45,None,Major,Rain,4,Vandalism
+14-02-2018,08:29:36,Burglary,Marathahalli,13.0599,77.4443,Other,26,Other,47,None,None,Partly Cloudy,3,Fraud
+14-06-2019,14:51:19,Theft,Marathahalli,12.8068,77.5564,Female,48,Male,33,None,Minor,Rain,5,None
+06-05-2018,21:03:00,Forgery,Koramangala,12.8643,77.6427,Other,35,Female,64,Blunt Object,Major,Rain,33,Fraud
+01-09-2019,05:44:25,Drug Offense,Electronic City,13.1407,77.7683,Other,36,Other,47,None,None,Clear,4,Robbery
+23-05-2022,11:59:14,Vandalism,Banashankari,13.0282,77.692,Male,19,Female,34,Knife,None,Partly Cloudy,16,Robbery
